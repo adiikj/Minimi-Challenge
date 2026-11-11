@@ -1,0 +1,27 @@
+{
+ "key": "[\"tavily\",\"fast\",\"pipedrive new pricing plans announcement 2026\",\"news\",\"2026-11-01\",[]]",
+ "query": {
+  "q": "Pipedrive new pricing plans announcement 2026",
+  "since": "2026-11-01",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tavily.com/knowledge/company/sss0e61XQyEL",
+    "title": "Pipedrive",
+    "content": "# Pipedrive\nID: sss0e61XQyEL\nWebsite: www.pipedrive.com\nHeadquarters: New York, New York, United States\nLinkedIn: www.linkedin.com/company/pipedrive · 118,244 followers\nIndustry: Software Development\nIndustry codes: SIC 73, 737, NAICS 54, 541\nCompany type: Privately Held\nParent company: Vista Equity Partners Management, LLC (www.vistaequitypartners.com/)\nFounded: 2010 [...] ## Products and services\nKeywords: sales crm, crm software, pipedrive, crm, sales analytics, email tracking, sales performance management, online form builder, email marketing, computers_electronics_and_technology/programming_and_developer_software, sales pipeline software, cloud [...] Founded: 2010\nSocial profiles: www.facebook.com/pipedrive, www.twitter.com/pipedrive, www.crunchbase.com/organization/pipedrive, www.instagram.com/pipedrivecrm, www.instagram.com/pipedrive, www.youtube.com/user/pipedrive\nDescription: Pipedrive is a sales CRM and pipeline management software that helps businesses grow their leads and reach their target audience.",
+    "score": 0.069921836
+   },
+   {
+    "url": "https://a16z.com/announcement/investing-in-phaze",
+    "title": "Investing in Phaze | Andreessen Horowitz",
+    "content": "New Media\n\nBooks\n\nPrograms\n\na16z Build\n\nCollege Talent\n\nCompany\n\nAbout\n\nJobs\n\nOffices\n\na16z Global\n\nStrategic Partnerships\n\nTwitter   Linkedin   Facebook   Instagram   Youtube-alt   Substack\n\nInfra\n\n# Investing in Phaze\n\nMartin Casado  Posted November 4, 2026\n\nShare\n\nEmail X LinkedIn Facebook Hacker News WhatsApp Flipboard Reddit\n\nPhaze Logo\n\nShare\n\nEmail X LinkedIn Facebook Hacker News WhatsApp Flipboard Reddit [...] The contents in here — and available on any associated distribution platforms and any public a16z online social media accounts, platforms, and sites (collectively, “content distribution outlets”) — should not be construed as or relied upon in any manner as investment, legal, tax, or other advice. You should consult your own advisers as to legal, business, tax, and other related matters concerning any investment. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed [...] Views expressed in “posts” (including podcasts, videos, and social media) are those of the individual a16z personnel quoted therein and are not the views of a16z Capital Management, L.L.C. (“a16z”) or its respective affiliates. a16z Capital Management is an investment adviser registered with the Securities and Exchange Commission. Registration as an investment adviser does not imply any special skill or training. The posts are not directed to any investors or potential investors, and do not",
+    "score": 0.0030634168,
+    "publishedAt": "2026-11-05"
+   }
+  ]
+ }
+}

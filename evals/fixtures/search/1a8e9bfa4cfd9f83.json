@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"hubspot sales hub professional pricing per seat\",\"general\",\"\",[\"hubspot.com\"]]",
+ "query": {
+  "q": "HubSpot Sales Hub Professional pricing per seat",
+  "domains": [
+   "hubspot.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://blog.hubspot.com/sales/hubspot-sales-hub-pricing",
+    "title": "HubSpot’s Sales Hub pricing guide — essential features for every rep",
+    "content": "Sales Hub Professional costs $90 per seat/month if billed annually and $100 per seat/month for monthly billing. There is also a one-time onboarding fee of $1,500.\n\n### How much does HubSpot really cost, including hidden fees?\n\nThe HubSpot per-seat price is straightforward; however, extra costs apply depending on the number of users, onboarding, and any additional Hubs or extra capacity you use. [...] | Sales Hub Professional | $90/seat (annual) or $100/seat (monthly) | Per user | 10 deal tags per account with rules for specific pipelines | Up to 300 fully customizable workflows | $1,500 |\n| Sales Hub Enterprise | $150/seat | Per user | 10 deal tags per account with rules for specific pipelines | Up to 1,000 fully customizable workflows | $3,500 | [...] Choosing annual billing saves high costs:\n\n Starter: Save 40% with annual billing ($9 vs $15 per seat)\n Professional: Save 10% with annual billing ($90 vs $100 per seat)\n Enterprise: No discount (always $150 per seat)\n\nMost teams find annual billing worthwhile, especially when factoring in the one-time onboarding fees for Professional ($1,500) and Enterprise ($3,500) plans.\n\n## Free Sales Tools\n\nPrice: $0/month\n\nUsers: Up to two",
+    "score": 0.8645393,
+    "publishedAt": "2026-09-09"
+   },
+   {
+    "url": "https://legal.hubspot.com/hubspot-product-and-services-catalog",
+    "title": "HubSpot Products & Services Catalog | Pricing Overview",
+    "content": "| Sales Seat  Grants complete access to Sales Hub Professional or Enterprise, including advanced features built for sellers. Sales Seat functionality also includes Core Seat access. | Not available | Full Sales Hub Professional functionality  $100/month per seat | Full Sales Hub Enterprise functionality  $150/month per seat | [...] | Service Seat  Grants complete access to Service Hub Professional or Enterprise, including advanced features built for service teams. Service Seat functionality also includes Core Seat access. | Not available | Full Service Hub Professional functionality  $100/month per seat | Full Service Hub Enterprise functionality  $150/month per seat | [...] | Feature | STARTER | PROFESSIONAL | ENTERPRISE |\n ---  --- |\n| Core Seat  Grants core access to all purchased products, built-in AI with Breeze Assistant, enriched data, and Smart CRM. | Access the features available in Starter subscriptions  $20/month per seat | Access the features available in Professional subscriptions\\  $50/month per seat | Access the features available in Enterprise subscriptions\\  $75/month per seat |",
+    "score": 0.818011,
+    "publishedAt": "2025-06-30"
+   },
+   {
+    "url": "https://cargas.com/software/hubspot/pricing",
+    "title": "2026 HubSpot Pricing Guide | Cargas",
+    "content": "Pricing for Sales Hub starts at $20 per month for the Starter tier, which includes one core seat, with additional core seats available for $20 each. The Professional tier starts at $100 per month and includes one sales seat, with extra sales seats costing $100 each and core seats available for $50. The Enterprise tier starts at $150 per month and includes one sales seat, with additional sales seats priced at $150 each and core seats at $75.",
+    "score": 0.8053262,
+    "publishedAt": "2025-03-11"
+   },
+   {
+    "url": "https://www.tropicapp.io/glossary/hubspot-price",
+    "title": "How Much Does HubSpot Cost? Pricing, Tiers, Discounts",
+    "content": "HubSpot Sales Hub Professional costs $90/user/month with 5 core seats included. Sales Hub Enterprise costs $150/user/month, also with 5 core seats included. These prices are negotiable, with most customers achieving 30-35% discounts.\n\n### Can I use multiple HubSpot Hubs together? [...] HubSpot cost per user depends on the Hub and tier. Sales Hub Professional costs $90/user/month, while Sales Hub Enterprise costs $150/user/month. Other Hubs use a different model with core seats included in the base price, then additional seats cost $45/month (Professional) or $75/month (Enterprise).\n\n### Does HubSpot offer annual payment discounts? [...] Professional: $800/month (includes 3 core seats + 2,000 contacts), additional seats $45/month\n Enterprise: $3,600/month (includes 5 core seats + 10,000 contacts), additional seats $75/month\n\n#### Sales Hub Pricing:\n\n Professional: $90/user/month (includes 5 core seats)\n Enterprise: $150/user/month (includes 5 core seats)\n\n#### Content Hub Pricing:",
+    "score": 0.8047131,
+    "publishedAt": "2026-01-09"
+   },
+   {
+    "url": "https://www.mo.agency/blog/hubspot-pricing",
+    "title": "HubSpot Pricing 2026: A Guide to the Latest Pricing",
+    "content": "| Hub | Starter | Professional | Enterprise |\n ---  --- |\n| Marketing Hub | $20 / Core Seat | $890 / mo (3 Core Seats incl. +$50 per extra seat) | $3,600 / mo (5 Core Seats incl. +$75 per extra seat) |\n| Sales Hub | $20 / Core Seat | $100 / Sales Seat / mo | $150 / Sales Seat / mo |\n| Service Hub | $20 / Core Seat | $100 / Service Seat / mo | $150 / Service Seat / mo | [...] | Sales Manager | Sales Seat Pro | 1 | 100 | 100 |\n| Account Managers x 8 | Core Seat | 8 | 50 | 400 |\n| Sales Development Rep x 4 | Sales Seat Pro | 4 | 100 | 400 |\n| Sales Administrators x 2 | Core Seat | 2 | 50 | 100 |\n| Service Manager | Service Seat Pro | 1 | 100 | 100 |\n| Service Rep x 4 | Service Seat Pro | 4 | 100 | 400 |\n| Fulfilment Manager | Core Seat | 1 | 50 | 50 |\n| Fulfilment Agent x 4 | View Only | 4 | 0 | 0 |\n|  | Total | 34 |  | $2,690 | [...] | Role | Licence | Qty | p/Seat $ | Total $ |\n ---  --- \n| CEO | Core Seat | 1 | 50 | 50 |\n| Financial Manager | Core Seat | 1 | 50 | 50 |\n| Sales Director x 1 | Core Seat | 1 | 50 | 50 |\n| Sales Managers x 3 | Core Seat | 3 | 50 | 150 |\n| Business Development Rep x 18 | Sales Seat Pro | 18 | 100 | 1,800 |\n| Sales Development Rep x 8 | Sales Seat Pro | 8 | 100 | 800 |\n| Sales Administrators x 3 | Core Seat | 3 | 50 | 150 |\n|  | Total | 35 |  | $3,050 |\n\n## Frequently Asked Questions",
+    "score": 0.78133065,
+    "publishedAt": "2026-04-23"
+   }
+  ]
+ }
+}

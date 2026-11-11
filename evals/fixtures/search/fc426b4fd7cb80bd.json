@@ -1,0 +1,27 @@
+{
+ "key": "[\"tavily\",\"fast\",\"zoho crm announcement new feature november 2026\",\"news\",\"2026-11-09\",[]]",
+ "query": {
+  "q": "Zoho CRM announcement new feature November 2026",
+  "since": "2026-11-09",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tavily.com/knowledge/company/mcn75dwExaih",
+    "title": "Zoho",
+    "content": "# Zoho\nID: mcn75dwExaih\nWebsite: www.zoho.com\nLegal name: Zoho Corporation Pvt. Ltd.\nHeadquarters: Chennai, Tamil Nadu, India\nLinkedIn: www.linkedin.com/company/zoho · 2,817,896 followers\nIndustry: Software Development\nIndustry codes: SIC 73, 738, NAICS 51, 518\nCompany type: Privately Held\nSocial profiles: www.facebook.com/zoho, www.twitter.com/zoho, www.crunchbase.com/organization/zoho, www.instagram.com/zoho, www.youtube.com/@zoho\nEmail: sales@zohocorp.com\nPhone: 91-44-69656070, +91 6 965 6070 [...] ## Products and services\nKeywords: technology/software, computers_electronics_and_technology/programming_and_developer_software, online office, collaboration business productivity suite, crm, productivity, network management, sales, enterprise it management, social media management, invoicing, accounting [...] Description: Zoho is a cloud software suite for businesses that covers end-to-end business needs, from sales and marketing to finance, HR, and beyond.",
+    "score": 0.045862664
+   },
+   {
+    "url": "https://xenospectrum.com/en/claude-sheets-whiteboards-interactive-connectors",
+    "title": "Anthropic Adds Claude Sheets, Whiteboards and Embedded App Interfaces to Claude | XenoSpectrum",
+    "content": "Default settings also differ across organizational plans. On the Team plan, all three products are enabled from the start. On the Enterprise plan, however, Whiteboards and Sheets are disabled by default and administrators must enable them manually. Claude Data on the Enterprise plan, meanwhile, is scheduled to be enabled automatically on November 19, 2026. Administrators need to take these differences into account when adjusting rollout timing and user permissions. [...] Until now, a typical generative AI workflow has been a one-off task: ask the AI to produce a table or file, download it to your PC, and edit it in another app. On November 10, 2026, Anthropic announced a set of new features that significantly changes that approach. It introduced \"Claude Sheets,\" a spreadsheet tool that teams can edit together directly inside Claude, and \"Claude Whiteboards,\" a space for organizing ideas. It also added a mechanism that displays the interfaces of external [...] Claude Whiteboards, meanwhile, focuses on helping teams brainstorm and organize discussions. Multiple people can work in real time, and Claude can group related ideas and extract next actions. Created content can be converted into documents or slides, and exported to external tools such as Lucidchart, Miro and Zoho's Vani so work can continue there.\n\nAD\n\n## Interactive Connectors and MCP Apps Bring External App Operation into Claude",
+    "score": 0.017375665,
+    "publishedAt": "2026-11-10"
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "key": "[\"tavily\",\"fast\",\"supabase pricing free plan 500mb pro plan\",\"general\",\"\",[\"supabase.com\"]]",
+ "query": {
+  "q": "Supabase pricing Free plan 500MB Pro plan",
+  "domains": [
+   "supabase.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.metacto.com/blogs/the-true-cost-of-supabase-a-comprehensive-guide-to-pricing-integration-and-maintenance",
+    "title": "Supabase Pricing 2026: Real Costs Exposed | $25 Pro vs $599 Team vs Free",
+    "content": "Free Plan: $0/month (500MB DB, 50K MAUs, 1GB storage, 200 realtime connections) - Perfect for hobby projects and MVPs\n Pro Plan: $25/month + usage (8GB DB, 100K MAUs, 100GB storage, 500 realtime connections) - The production standard\n Team Plan: $599/month + usage (Pro limits + SOC2/ISO 27001 compliance, 14-day backups)\n Enterprise: Custom pricing (dedicated support, HIPAA compliance, BYO cloud, 24/7 support) [...] Supabase offers four pricing tiers in 2026. The Free plan is $0 and includes 2 projects with 500 MB database storage, 50,000 monthly active users, and 200 concurrent realtime connections. The Pro plan starts at $25/month plus usage-based fees for resources exceeding included limits (8 GB database, 100K MAUs, 100 GB storage, 500 realtime connections). The Team plan is $599/month and includes Pro features with SOC2/ISO 27001 compliance, 14-day backup retention, and priority support. The [...] | Feature | Free Plan | Pro Plan | Team Plan | Enterprise Plan |\n ---  --- \n| Monthly Cost | $0 | Starts at $25 + Usage | Starts at $599 + Usage | Custom |\n| Best For | Hobby Projects & MVPs | Production Apps & Businesses | Agencies & Large Teams | Large-Scale Needs |\n| Database Size | 500 MB | 8 GB (Usage-based after) | 8 GB (Usage-based after) | Custom |\n| Monthly Active Users | 50,000 | 100,000 (Usage-based after) | 100,000 (Usage-based after) | Custom |",
+    "score": 0.84389514,
+    "publishedAt": "2026-01-12"
+   },
+   {
+    "url": "https://www.activepieces.com/blog/supabase-pricing-free-tier-limits-pro-costs-egress",
+    "title": "Supabase Pricing: Free Tier Limits, Pro Costs & Egress",
+    "content": "| Tier | Database Size | Egress | Monthly Active Users (MAUs) |\n ---  --- |\n| Free | 500MB | 5GB | 50,000 |\n| Pro ($25/mo) | 8GB (included) | 250GB (included) | 100,000 (included) |\n| Team ($599/mo) | Unlimited (usage-based) | Unlimited (usage-based) | Unlimited (usage-based) |\n| Enterprise | Unlimited | Unlimited | Unlimited |\n\nPrices and plan limits checked against supabase.com on September 30, 2026.\n\n### Scaling limits and user caps [...] Yes, Supabase has a free tier at no cost, with 500MB of database space, 5GB of egress and 50,000 monthly active users. It suits prototyping, but projects pause after 7 days of inactivity. Production apps need the Pro plan, which starts at $25 per month and removes the inactivity pause. [...] Developers must weigh the $0.09 per GB egress fee on Supabase against the $0.06 per GB charged by PlanetScale(), which is Google’s mobile and web application development platform, so developers can save substantially on their monthly infrastructure bills.\n\n500MB of database space and 5GB of bandwidth are provided by the Free Tier at no cost, which gives hobbyists enough room to build and deploy small applications without an upfront investment.",
+    "score": 0.83828294,
+    "publishedAt": "2026-10-27"
+   },
+   {
+    "url": "https://schematichq.com/blog/supabase-pricing",
+    "title": "Supabase Pricing Page and Costs Explained (2026)",
+    "content": "### Database Size\n\nSupabase's Free tier comes with a 500 MB database size per project. If you want a larger disk size, you'll need to upgrade to paid plans.\n\nEach project on the Pro and Team plans includes an 8 GB disk size. Once you exceed this limit, you pay $0.125 per GB per month.\n\nThe cost grows as your product stores more user data, logs, or analytics. Most production applications can quickly hit this limit as usage increases.\n\n### Bandwidth (Egress) [...] ### Free Tier\n\nSupabase's Free plan is built for hobby projects, learning, and basic website development.\n\nImage\n\nSource: Supabase.com\n\nYou can use a Postgres database and access community support without any upfront cost. You also get unlimited API requests.\n\nHowever, Free tier limits apply.\n\nThere’s a cap of 50,000 monthly active users, a 500 MB database size, 5 GB egress, and 1 GB file storage. [...] Supabase is not costly for small teams or early-stage startups. The Free tier offers generous limits, while the Pro plan starts at $25/month. Costs only increase when your app uses more compute, storage, bandwidth, monthly active users, or paid add-ons.\n\n### Is Supabase cheaper than AWS?\n\nSupabase can be cheaper and easier to budget than AWS because it offers predictable pricing plans. AWS may provide more services, but pricing can be harder to predict across multiple products.",
+    "score": 0.8118252,
+    "publishedAt": "2026-05-26"
+   },
+   {
+    "url": "https://supabase.com/docs/guides/platform/billing-on-supabase",
+    "title": "About billing on Supabase | Supabase Docs",
+    "content": "| Usage Item | Free | Pro/Team | Enterprise |\n ---  --- |\n| Egress | 5 GB | 250 GB included, then $0.09 per GB | Custom |\n| Database Size | 500 MB per project | 8 GB disk per project included, then $0.125 per GB | Custom |\n| Monthly Active Users | 50,000 MAU | 100,000 MAU included, then $0.00325 per MAU | Custom |\n| Monthly Active Third-Party Users | 50,000 MAU | 100,000 MAU included, then $0.00325 per MAU | Custom | [...] | Monthly Active SSO Users | Unavailable on Free Plan | 50 MAU included, then $0.015 per MAU | Custom |\n| Storage Size | 1 GB | 100 GB included, then $0.021 per GB | Custom |\n| Storage Images Transformed | Unavailable on Free Plan | 100 included, then $5 per 1000 | Custom |\n| Edge Function Invocations | 500,000 | 2 million included, then $2 per million | Custom |\n| Realtime Message Count | 2 million | 5 million included, then $2.5 per million | Custom | [...] Supabase wordmarkSupabase wordmarkDOCS\n\n Start\n\nSupabase wordmarkSupabase wordmarkDOCS\n\nAbout billing on Supabase\n\n## Subscription plans#\n\nSupabase offers different subscription plans—Free, Pro, Team, and Enterprise. For a closer look at each plan's features and pricing, visit our pricing page.\n\n### Free Plan#",
+    "score": 0.77081,
+    "publishedAt": "2026-10-31"
+   },
+   {
+    "url": "https://supabase.com/kb/faqs/platform/scaling",
+    "title": "Can a Supabase Postgres database scale as my app grows? | Supabase Knowledge Base",
+    "content": "For database size and disk space, these are included with your plan and range from 500MB database size on the Free plan to fully customized database and disk size for Enterprise plans. Projects on the Pro plan and higher additionally have autoscaling disks.\n\nYou can also scale compute as needed. Free projects run on Nano compute and new paid projects start on Micro, and you can move to larger sizes as you need more CPU, memory, and connections. For details refer to Compute pricing.",
+    "score": 0.7246755
+   }
+  ]
+ }
+}

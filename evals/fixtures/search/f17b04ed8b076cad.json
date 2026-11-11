@@ -1,0 +1,33 @@
+{
+ "key": "[\"tavily\",\"fast\",\"freshsales announcement\",\"news\",\"2026-11-09\",[]]",
+ "query": {
+  "q": "Freshsales announcement",
+  "since": "2026-11-09",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tavily.com/knowledge/company/tZGLjKJo4Wnn",
+    "title": "Freshsales",
+    "content": "# HNP - TaskNavigator for FreshSales\nID: tZGLjKJo4Wnn\nWebsite: www.cristoferslotoroff.com\nHeadquarters: New York City, United States\nLinkedIn: www.linkedin.com/company/hipnopaideia · 4 followers\nIndustry: IT System Custom Software Development\nCompany type: Self-Employed\nPhone: 2026-06-15, 2026-06-28, 2026-07-07 [...] ## Products and services\nKeywords: education, libraries, builder, software, training\n\n## Headcount\n- Now: 0 · 0 quarterly · 0 monthly\n\n## Reputation\n- Open roles: 0 [...] Description: Cris Slotoroff is a company that specializes in education and libraries. They have been in the industry for over 20 years and are a chief officer for education and libraries. They aim to untangle complicated things and provide software solutions for educators and builders.",
+    "score": 0.51209784
+   },
+   {
+    "url": "https://tavily.com/knowledge/company/WsSXDx7yIE0y",
+    "title": "Freshsales",
+    "content": "# Testing Freshsales\nID: WsSXDx7yIE0y\nLinkedIn: www.linkedin.com/company/testing-freshsales · 0 followers\nIndustry: IT Services and IT Consulting\nCompany type: Self-Employed\n\n## Headcount\n- Now: 1 · 0 monthly\n\n## Reputation\n- Open roles: 0",
+    "score": 0.48398376
+   },
+   {
+    "url": "https://virus.hr/en/news/fresh-sales-figures-for-rdr-2-and-gta-v-revealed",
+    "title": "Fresh sales figures for RDR 2 and GTA V – Virus",
+    "content": "Fresh sales figures for RDR 2 and GTA V revealed\n\n# Fresh sales figures for RDR 2 and GTA V revealed\n\nIven Jurić\n\n Rockstar Games\n Sales Results\n GTA\n Red Dead Redemption\n Take-Two / 2K [...] Take Two Interactive has revealed fresh sales figures for two Rockstar titles. In the latest meeting for the second part of fiscal year 2027, it was stated that the GTA series has reached 480 million copies sold, aided by GTA V, which has sold 235 million copies since its release up to September 30, 2026, placing it in the top 3 of the best-selling games alongside Minecraft and Tetris. [...] Nintendo Switch 2 Announced •",
+    "score": 0.4798998,
+    "publishedAt": "2026-11-10"
+   }
+  ]
+ }
+}

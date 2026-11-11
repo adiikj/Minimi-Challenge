@@ -1,0 +1,49 @@
+{
+ "key": "[\"tavily\",\"fast\",\"supabase pricing\",\"general\",\"\",[\"supabase.com\"]]",
+ "query": {
+  "q": "Supabase pricing",
+  "domains": [
+   "supabase.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.activepieces.com/blog/supabase-pricing-free-tier-limits-pro-costs-egress",
+    "title": "Supabase Pricing: Free Tier Limits, Pro Costs & Egress",
+    "content": "| Tier | Database Size | Egress | Monthly Active Users (MAUs) |\n ---  --- |\n| Free | 500MB | 5GB | 50,000 |\n| Pro ($25/mo) | 8GB (included) | 250GB (included) | 100,000 (included) |\n| Team ($599/mo) | Unlimited (usage-based) | Unlimited (usage-based) | Unlimited (usage-based) |\n| Enterprise | Unlimited | Unlimited | Unlimited |\n\nPrices and plan limits checked against supabase.com on September 30, 2026.\n\n### Scaling limits and user caps [...] Small instances cost $15 per month, which is about $0.0206 per hour.\n Medium instances cost $0.0822 per hour, which means a production environment requiring 4GB of RAM will cost $60.01 monthly.\n Large instances cost $0.1517 per hour, so high-traffic applications needing dedicated CPU resources will see a $110.74 baseline charge.\n\nSupabase bills these upgrades hourly, so a developer can scale up for a migration and scale back down to avoid paying for idle hardware. [...] Micro Instance: Covered by the $10/mo compute credit, suitable for low-concurrency apps.\n Small Instance: $0.0206 per hour, providing shared compute cycles for consistent query execution, which means a predictable monthly budget of roughly $15.04 for always-on infrastructure.\n Medium Instance: $0.0822 per hour, doubling available RAM to handle larger in-memory joins.\n\nStarting at $599/month, the Team tier adds priority email support and SLAs.",
+    "score": 0.86849254,
+    "publishedAt": "2026-10-27"
+   },
+   {
+    "url": "https://schematichq.com/blog/supabase-pricing",
+    "title": "Supabase Pricing Page and Costs Explained (2026)",
+    "content": "Supabase is a masterclass in predictable pricing by using tiered plans, transparent overage policies, cost control, linked docs, and detailed FAQs.\n It offers four pricing plans: Free for basic projects, Pro ($25/month) for production apps, Team ($599/month) for scaling companies, and Enterprise for large organizations with custom needs. [...] Supabase is not costly for small teams or early-stage startups. The Free tier offers generous limits, while the Pro plan starts at $25/month. Costs only increase when your app uses more compute, storage, bandwidth, monthly active users, or paid add-ons.\n\n### Is Supabase cheaper than AWS?\n\nSupabase can be cheaper and easier to budget than AWS because it offers predictable pricing plans. AWS may provide more services, but pricing can be harder to predict across multiple products. [...] All paid plans include $10 per month in compute credits. You can use those credits to cover the cost of one Micro instance. Alternatively, use the credits to offset the cost of any other instance.\n\nImage\n\nSource: Supabase.com\n\nPrices increase based on the compute size you choose. For example, a small instance starts at $15, while a medium compute size costs $60. Larger instances can cost hundreds or thousands of dollars per month.",
+    "score": 0.86522406,
+    "publishedAt": "2026-05-26"
+   },
+   {
+    "url": "https://supabase.com/pricing",
+    "title": "Pricing & Fees | Supabase",
+    "content": "| Compute Size | Price USD | Compute | Memory | Connections: Direct | Connections: Pooler |\n ---  ---  --- |\n| First instance is free on paid plans |\n| Micro | $10 | Shared compute | 1 GB | 60 | 200 |\n| Small | $15 | Shared compute | 2 GB | 90 | 400 |\n| Medium | $60 | Shared compute | 4 GB | 120 | 600 |\n| Large | $110 | Dedicated · 2 vCPUs | 8 GB | 160 | 800 |\n| XL | $210 | Dedicated · 4 vCPUs | 16 GB | 240 | 1,000 |\n| 2XL | $410 | Dedicated · 8 vCPUs | 32 GB | 380 | 1,500 | [...] | Feature by | Free $0/ month Start for Free | Pro $25/ month Get Started | Team $599/ month Get Started | Enterprise Custom Contact Us |\n| Database |\n| Dedicated Postgres Database | Included in | Included in | Included in | Included in |\n| Unlimited API requests | Included in | Included in | Included in | Included in | [...] ## How compute pricing works\n\nChoose a plan, add projects, and see your total cost\n\nWhat is “compute”?\n\n### 1. Choose your plan\n\n### Pro\n\n$25/month\n\nEverything in the Free Plan, plus:\n\n100K monthly active users\n\n8 GB disk size per project\n\n250 GB bandwidth\n\nDaily backups (7 day retention)\n\nEmail support\n\nPaid plans include $10/mo in compute credits, enough to cover one Micro instance.\n\n### 2. Configure compute for your projects\n\nAdd projects and adjust compute to estimate your monthly cost.",
+    "score": 0.8597815
+   },
+   {
+    "url": "https://supabase.com/docs/guides/platform/billing-on-supabase",
+    "title": "About billing on Supabase | Supabase Docs",
+    "content": "| Usage Item | Free | Pro/Team | Enterprise |\n ---  --- |\n| Egress | 5 GB | 250 GB included, then $0.09 per GB | Custom |\n| Database Size | 500 MB per project | 8 GB disk per project included, then $0.125 per GB | Custom |\n| Monthly Active Users | 50,000 MAU | 100,000 MAU included, then $0.00325 per MAU | Custom |\n| Monthly Active Third-Party Users | 50,000 MAU | 100,000 MAU included, then $0.00325 per MAU | Custom | [...] | Monthly Active SSO Users | Unavailable on Free Plan | 50 MAU included, then $0.015 per MAU | Custom |\n| Storage Size | 1 GB | 100 GB included, then $0.021 per GB | Custom |\n| Storage Images Transformed | Unavailable on Free Plan | 100 included, then $5 per 1000 | Custom |\n| Edge Function Invocations | 500,000 | 2 million included, then $2 per million | Custom |\n| Realtime Message Count | 2 million | 5 million included, then $2.5 per million | Custom | [...] An organization can have multiple projects. Each project includes a dedicated Postgres instance running on its own server. You are charged for the Compute resources of that server, independent of your database usage.\n\nEach project you launch increases your monthly Compute costs.\n\nRead more about Compute costs.\n\n## Variable Usage Fees and Quotas#",
+    "score": 0.83973396,
+    "publishedAt": "2026-10-31"
+   },
+   {
+    "url": "https://supabase.com/alternatives/supabase-vs-firebase",
+    "title": "Supabase vs Firebase",
+    "content": "| Billing model | Pay‑as‑you‑go; you pay per document read, write, delete and per function invocation. Pricing varies by region and can be hard to predict | Transparent tiered pricing: pay for database storage, file storage, and compute. There are no charges for API requests, and you can track usage from the dashboard |\n| Self‑hosting | Not supported | Available—self‑hosting lets you control costs and comply with regulatory requirements | [...] Firebase’s usage‑based pricing can surprise teams as their apps grow because every document read, write or listener contributes to cost. Supabase offers predictable tiers and does not bill per request, which can simplify budgeting.\n\n## Ecosystem, extensibility and community#",
+    "score": 0.83907574,
+    "publishedAt": "2025-08-20"
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "key": "[\"tavily\",\"fast\",\"hubspot sales hub announcement\",\"news\",\"2026-11-09\",[]]",
+ "query": {
+  "q": "HubSpot Sales Hub announcement",
+  "since": "2026-11-09",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://blog.hubspot.com/sales/sales-pipeline-visibility",
+    "title": "Sales pipeline visibility problems (and how to fix them)",
+    "content": "The goal is to give sales leaders a more reliable basis for forecasting and make pipeline reviews more productive. Better visibility cannot eliminate uncertainty about which deals will close, but it can help teams identify problems earlier and respond with more confidence.\n\nHubSpot Sales Hub supports deal tracking, pipeline reporting, forecasting, and workflow automation, while Smart CRM provides a shared customer data foundation. Get started for free and begin with the pipeline audit. [...] HubSpot Sales Hub provides pipeline reports and dashboards using CRM data, including deal stages, owners, close dates, and amounts. Teams can use these reports to monitor pipeline performance and build additional views for the metrics most relevant to their sales process.\n\n## How to Improve Sales Pipeline Visibility With Better Stages and CRM Discipline [...] Automation cannot establish every reason a deal has stalled. A workflow may identify missing activity, but sales reps still need to investigate whether the buyer’s budget changed, a champion left, or a competitor entered the process. The team can then update the deal record with the findings and next steps.\n\nManaging forecasting, stage governance, and reporting across multiple sales pipelines? Get a Sales Hub demo to explore how HubSpot supports more complex pipeline requirements.",
+    "score": 0.61251885,
+    "publishedAt": "2026-11-10"
+   },
+   {
+    "url": "https://tavily.com/knowledge/company/7hyujTAby2IJ",
+    "title": "HubSpot",
+    "content": "# HubSpot\nID: 7hyujTAby2IJ\nWebsite: www.hubspot.com\nLegal name: HubSpot, Inc.\nHeadquarters: Cambridge, Massachusetts, United States\nLinkedIn: www.linkedin.com/company/hubspot · 1,733,346 followers\nIndustry: Software Development\nCompany type: Public Company\nFounded: 2006\nSocial profiles: www.facebook.com/hubspot, www.twitter.com/hubspot, www.crunchbase.com/organization/hubspot, www.instagram.com/hubspot, www.youtube.com/@hubspotmarketing, www.youtube.com/user/hubspot\nEmail: info@hubspot.com [...] Phone: 1-888-482-7768, (888) 482-7768\nDescription: HubSpot is a company that provides marketing, sales, and customer service software on one agent platform. They offer a range of products and services to help businesses grow. [...] ## Products and services\nKeywords: technology/software, marketing automation software, hubspot marketing hub, ai agents for business operations, social media management, marketing automation, conversational marketing, social media advertising, landing page builders, marketing analytics, account data management, ai marketing agents",
+    "score": 0.30278313
+   },
+   {
+    "url": "https://everything-pr.com/hubspot-aeo-xfunnel-acquisition",
+    "title": "HubSpot AEO: XFunnel Deal, $50 Price, Engines, Limits | EPR",
+    "content": "| Item | Detail |\n --- |\n| Launch date | April 14, 2026, at HubSpot's Spring 2026 Spotlight |\n| Origin | Technology from HubSpot's XFunnel acquisition, announced October 31, 2025 |\n| Engines tracked | ChatGPT, Gemini, Perplexity |\n| Standalone price | $50 a month, or $45 a month on annual billing |\n| Standalone limits | 25 prompts and 2,500 tracked answers a month |\n| Bundled access | Included with Marketing Hub Professional and Enterprise | [...] HubSpot announced its acquisition of XFunnel on October 31, 2025, and the deal closed on December 1, 2025, according to a September 2026 acquisition map by Deepak Gupta. XFunnel was an Israeli answer engine optimization startup, less than a year old, founded by Beeri Amiel and Neri Bluman. HubSpot did not disclose the price.\n\nGet your story in front of the right press.5W turns news into coverage across national, trade and broadcast media.Talk to 5W212.999.5585info@5wpr.com",
+    "score": 0.1984992,
+    "publishedAt": "2026-11-09"
+   },
+   {
+    "url": "https://www.campaigncreators.com/blog/hubspot-agent-hub-agent-builder-agent-inbox?hsLang=en",
+    "title": "How Do HubSpot Agent Hub, Agent Builder, and Agent Inbox Work Together?",
+    "content": "HubSpot Agent Hub is the central place to see and manage every AI agent running across marketing, sales, and service. From one screen, you can check live status and performance for each active agent, turn on inactive agents with one click, and open Agent Builder or the Agent Marketplace.\n\nAgent Hub also groups agent results by go-to-market goal. The four goals are building demand, winning deals, delighting customers, and scaling growth. You can open it from Agents > Agent Hub in your portal. [...] Agent Hub and Agent Builder launched as a public beta in July 2026, and HubSpot hasn't announced a general availability date. Menus, tiers, and credit costs are still changing, so recheck your setup after each HubSpot release.\n\n##### What Is the Difference Between AI Referrals and Referrals in HubSpot? [...] ## Who Can Use Agent Hub, and How Is It Priced?\n\nAgent Hub launched for Professional and Enterprise customers, and the agent builder now also lists Starter tiers of Marketing, Sales, Service, Data, and Content Hub.\n\nSmart CRM, Revenue Hub, agentic workflows, and some HubSpot-built agents still require Professional or Enterprise. Custom agent runs use HubSpot Credits.\n\n### Tiers and Where Agents Run",
+    "score": 0.1636194,
+    "publishedAt": "2026-11-09"
+   },
+   {
+    "url": "https://blog.hubspot.com/sales/crm-modernization",
+    "title": "CRM modernization: What it is and why it matters",
+    "content": "HubSpot’s 2026 State of Sales found that improved sales-marketing alignment, along with enhanced coaching and AI implementation, was among the second-most-popular priorities for sales leaders, with 20% of leaders prioritizing each.\n\n### Map the customer lifecycle across every team.\n\nStart by defining the full lifecycle the customer moves through, from first touch to renewal. Clear customer lifecycle management assigns an owner and a handoff point to each stage. For example: [...] Operational metrics gain weight when tied to results leadership already tracks. HubSpot’s 2026 State of Sales reports that 74% of sales and revenue leaders say their company is outperforming its goals this year. The report also identifies technology as a significant factor when it works smoothly, and 95% of leaders say their current AI tools meet or exceed expectations. [...] That’s especially important as AI becomes part of sales workflows. Today, 94% of sales leaders actively use AI, and 80% say it’s fully integrated with their CRM, according to HubSpot’s 2026 State of Sales. To support that shift, businesses need accurate data, consistent processes, and a CRM that can work with the tools their teams use.\n\nLearn more about why HubSpot's CRM platform has all the tools you need to grow  better.",
+    "score": 0.14746949,
+    "publishedAt": "2026-11-10"
+   }
+  ]
+ }
+}

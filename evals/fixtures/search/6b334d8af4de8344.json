@@ -1,0 +1,27 @@
+{
+ "key": "[\"tavily\",\"fast\",\"salesforce sales cloud announcement\",\"news\",\"2026-11-09\",[]]",
+ "query": {
+  "q": "Salesforce Sales Cloud announcement",
+  "since": "2026-11-09",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://dataconomy.com/2026/11/10/salesforce-to-acquire-braze-for-566-billion",
+    "title": "Salesforce To Acquire Braze For $5.66 Billion - Dataconomy",
+    "content": "BTIG, Piper Sandler, Wells Fargo, Oppenheimer and Loop Capital cut their ratings on Braze after the agreement. Jefferies said the acquisition “re-energizes Marketing & Commerce Cloud.”\n\nBraze CEO and co-founder Bill Magnuson said the company was built on the belief that marketers and their creativity are a brand’s competitive advantage. He said Braze would continue building as Braze. [...] At $47.50 per share, Salesforce is paying just over six times Braze’s projected annual sales. Evercore ISI analyst Kirk Materne said the size of the premium “seems a bit odd unless it was competitive,” while adding that the deal logic made sense.\n\nPiper Sandler analyst Billy Fitzsimmons downgraded Braze to Neutral and raised his price target to $47.50. He described the acquisition as removing a growing competitor to Salesforce’s Marketing Cloud. [...] Don't miss out on the latest insights, trends, and analysis in the world of data, technology, and startups. Subscribe to our newsletter and get exclusive content delivered straight to your inbox.\n\nSalesforce plans to integrate Braze’s real-time customer-engagement engine and AI decisioning capabilities into Data 360, Customer 360, Agentforce and SIForce. Salesforce describes Braze as optimized for high-volume, real-time business-to-consumer engagement.",
+    "score": 0.075858176,
+    "publishedAt": "2026-11-10"
+   },
+   {
+    "url": "https://tavily.com/knowledge/company/XiMau7KBLqwM",
+    "title": "Salesforce",
+    "content": "# Salesforce\nID: XiMau7KBLqwM\nWebsite: www.salesforce.com\nLegal name: Salesforce, Inc.\nHeadquarters: San Francisco, California, United States\nLinkedIn: www.linkedin.com/company/salesforce · 6,750,152 followers\nIndustry: Software Development\nCompany type: Public Company\nSocial profiles: www.facebook.com/salesforce, www.twitter.com/salesforce, www.crunchbase.com/organization/salesforce, www.instagram.com/salesforce, www.youtube.com/@salesforce\nEmail: datasubjectrequest@salesforce.com [...] ## Products and services\nKeywords: technology/software, salesforce consulting services, salesforce customer success, financialforce consulting, enterprise cloud computing customer relationship management, customer 360, ai crm, human, agents, agentic enterprises, technology, cloud-platforms [...] Phone: 1-800-664-9073, +1 800-420-7332\nDescription: Salesforce is an AI CRM platform that helps companies become Agentic Enterprises where humans and agents drive success together through a unified AI, data, and Customer 360 platform.",
+    "score": 0.058131598
+   }
+  ]
+ }
+}

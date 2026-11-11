@@ -1,0 +1,26 @@
+{
+ "key": "[\"tavily\",\"fast\",\"neon supabase railway pricing change\",\"news\",\"2026-11-03\",[]]",
+ "query": {
+  "q": "Neon Supabase Railway pricing change",
+  "since": "2026-11-03",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tavily.com/knowledge/company/bhw5g0Vh4Q1r",
+    "title": "Supabase",
+    "content": "# Supabase\nID: bhw5g0Vh4Q1r\nWebsite: www.supabase.com\nLegal name: Supabase Inc\nHeadquarters: Global\nLinkedIn: www.linkedin.com/company/supabase · 113,936 followers\nIndustry: IT Services and IT Consulting\nCompany type: Privately Held\nFounded: 2020 [...] - Last round: Series F 2026-06-01 500.00M USD\n- Series F 2026-06-01 500.00M USD\n- Series E 2025-11-03 100.00M USD\n- Series D 2025-04-01 200.00M USD\n- Series C 2024-09-25 80.00M USD\n- Series B 2022-05-10 80.00M USD\n- Series A 2021-09-09 30.00M USD\n- Seed Round 2020-12-15 6.00M USD\n- Seed Round 2020-08-25 125.00K USD\n- Series F [...] ## Headcount\n- Now: 423 · +250 yearly (144.5%) · +65 quarterly · +17 monthly\n  - Northern America: 153\n  - Northern Europe: 32\n  - Southern Europe: 30\n  - Western Europe: 27\n  - South Eastern Asia: 20\n  - Southern Asia: 16\n  - Australia New Zealand: 15\n  - Latin America: 14\n  - Eastern Europe: 9\n  - Sub Saharan Africa: 6\n  - Western Asia: 4\n  - Central Asia: 1\n  - Eastern Asia: 1\n  - Polynesia: 0\n  - Northern Africa: 0\n\n## Financials\n- Annual revenue: 28.00M USD",
+    "score": 0.5521781
+   },
+   {
+    "url": "https://tavily.com/knowledge/company/IPQsy7WMEckH",
+    "title": "Neon",
+    "content": "# Neon\nID: IPQsy7WMEckH\nWebsite: www.neon.com.br\nLegal name: Neon Pagamentos\nHeadquarters: São Paulo, SP, Brazil\nLinkedIn: www.linkedin.com/company/timeneon · 1,000,505 followers\nIndustry: Financial Services\nIndustry codes: SIC 67, 672, NAICS 52, 523\nCompany type: Privately Held\nFounded: 2016\nSocial profiles: www.facebook.com/timeneon, www.twitter.com/timeneon, www.crunchbase.com/organization/banco-neon, www.instagram.com/timeneon, www.youtube.com/channel/uch0hogvkgu8wx5i6lwudpeg [...] - Series E 2024-09-03 36.82M USD\n- Venture Round 2023-12-01 63.52M USD\n- Debt Financing 2023-01-01 65.18M USD\n- Series D 2022-02-14 306.78M USD\n- Series C 2020-09-02 300.00M USD\n- Series B 2019-11-18 94.83M USD\n- Series A 2018-05-02 22.00M USD\n- Seed Round 2018-01-01\n- Seed Round 2015-12-01 3.50M USD\n- Pre Seed Round 2014-12-01 [...] ## Headcount\n- Now: 1,924 · +165 yearly (9.4%) · +42 quarterly · +5 monthly\n  - Latin America: 1,001\n  - Northern America: 16\n  - Southern Asia: 6\n  - Southern Europe: 4\n  - Northern Europe: 2\n  - Western Europe: 2\n  - Eastern Europe: 1\n  - South Eastern Asia: 1\n  - Northern Africa: 1\n  - Western Asia: 1\n  - Sub Saharan Africa: 0\n  - Central Asia: 0\n  - Australia New Zealand: 0\n  - Polynesia: 0\n  - Melanesia: 0\n\n## Financials\n- Annual revenue: 1.10B USD",
+    "score": 0.26023948
+   }
+  ]
+ }
+}

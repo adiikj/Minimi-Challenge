@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"railway pricing plans\",\"general\",\"\",[\"railway.com\"]]",
+ "query": {
+  "q": "Railway pricing plans",
+  "domains": [
+   "railway.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://docs.railway.com/pricing/plans",
+    "title": "Pricing Plans | Railway Docs",
+    "content": "Each Railway account needs an active subscription. The base subscription fee allows you to use the Railway platform and features included in the tier of your subscription. The subscription fee goes towards your usage-costs on the platform.\n\n| Plan | Price |\n --- |\n| Free | $0 / month |\n| Hobby | $5 / month |\n| Pro | $20 / month |\n| Enterprise | Custom |\n\nRead more about Railway's plans at railway.com/pricing. [...] | Plan | Replicas | RAM | CPU | Ephemeral Storage | Volume Storage | Image Size |\n ---  ---  --- \n| Trial | 2 | 1 GB | 2 vCPU | 1 GB | 0.5 GB | 4 GB |\n| Free | 1 | 0.5 GB | 1 vCPU | 1 GB | 0.5 GB | 4 GB |\n| Hobby | 6 | 48 GB | 48 vCPU | 100 GB | 5 GB | 100 GB |\n| Pro | 42 | 1 TB | 1,000 vCPU | 100 GB | 1 TB \\ | Unlimited |\n| Enterprise | 50 | 2.4 TB | 2,400 vCPU | 100 GB | 5 TB \\ | Unlimited |\n\nNote that these are maximum values and include replica multiplication. [...] ## Plans\n\nRailway offers four plans in addition to a Trial:\n\n|  |  |\n --- |\n| Free | For running small apps with $1 of free credit per month |\n| Hobby | For indie hackers and developers to build and deploy personal projects |\n| Pro | For professional developers and their teams shipping to production |\n| Enterprise | For teams building and deploying production applications with the need for enterprise features related to compliance, SLAs, and account management |\n\n### Subscription pricing",
+    "score": 0.8474635,
+    "publishedAt": "2024-05-16"
+   },
+   {
+    "url": "https://getdeploying.com/railway",
+    "title": "Railway: Review, Pricing & Alternatives",
+    "content": "Plans are Free ($0 / mo with $1 of monthly credit), Hobby ($5 / mo with $5 of credit), Pro ($20 / mo with $20 of credit and unlimited seats), and Enterprise (custom).\n\n| Resource | Rate |\n --- |\n| CPU | $20 / vCPU / mo |\n| Memory | $10 / GB / mo |\n| Volumes | $0.15 / GB / mo |\n| Object storage | $0.015 / GB / mo |\n| Egress | $0.05 / GB | [...] | Price point | Configuration | Estimated cost |\n --- \n| Small VM  1 vCPU, 1 GB RAM | 1 vCPU, 1 GB RAM | $30.00 /mo |\n| Medium VM  4 vCPU, 8 GB RAM | 4 vCPU, 8 GB RAM | $160.00 /mo |\n| Large VM  8 vCPU, 16 GB RAM | 8 vCPU, 16 GB RAM | $320.00 /mo |\n| Block storage  100 GB | 100 GB | $15.00 /mo |\n| Object storage  1 TB | 1 TB | $15.00 /mo |\n| Load balancer |  | Included in plan |\n| PostgreSQL  2 vCPU, 4 GB RAM, 50 GB storage | 2 vCPU, 4 GB RAM, 50 GB storage | $87.50 /mo |",
+    "score": 0.8255897,
+    "publishedAt": "2026-09-16"
+   },
+   {
+    "url": "https://temps.sh/blog/railway-pricing-2026",
+    "title": "Railway Pricing 2026: What It Actually Costs | Temps",
+    "content": "Short answer: Railway (railway.com), the usage-billed app hosting platform, has a permanent Free plan at $0/month with $1 of monthly usage credit, and paid plans at $5/month on Hobby or $20/month per workspace (unlimited seats, not per seat) on Pro — and those subscription figures are credits rather than allowances, so the price is a floor, not a cap. Usage is metered per second at $20 per vCPU/month, $10 per GB of RAM/month, $0.05 per GB of egress and $0.15 per GB/month of volume storage. Once [...] | Plan | Subscription | Included usage credit |\n --- \n| Free | $0 | $1/month, does not roll over |\n| Trial | Free | $5 one-time grant |\n| Hobby | $5/month | $5/month of resource usage |\n| Pro | $20/month per workspace | $20/month of resource usage |\n| Enterprise | Custom | Custom | [...] Yes, in a limited way. Railway has a permanent Free plan at $0/month providing $1 of usage credit per month, which does not roll over, on a single replica capped at 0.5 GB of RAM and 1 vCPU. New accounts start on a Trial with a one-time $5 grant, and that Trial reverts to the Free plan once 30 days pass or the $5 is spent. Hobby at $5/month is the practical floor for anything beyond a very small app.\n\n### Is Railway's $5 plan a cap on what I can spend?",
+    "score": 0.8236123,
+    "publishedAt": "2026-08-07"
+   },
+   {
+    "url": "https://docs.railway.com/pricing",
+    "title": "Pricing | Railway Docs",
+    "content": "| Plan | Price | Best For |\n --- \n| Free | $0/mo | Experimentation with $1 of free resources |\n| Hobby | $5/mo | Personal projects and side hustles |\n| Pro | $20/mo | Production apps and teams |\n| Enterprise | Custom | Compliance, SLAs, and dedicated support |\n\nAll paid plans include generous resource allowances, with the subscription fee counting toward your usage.\n\n## Resource pricing [...] | Resource | Price |\n --- |\n| RAM | $10 / GB / month |\n| CPU | $20 / vCPU / month |\n| Network Egress | $0.05 / GB |\n| Volume Storage | $0.15 / GB / month |\n\nYou're billed by the minute for compute resources, so you only pay for what you use.\n\n## Railway Agent\n\nThe Railway Agent is billed separately, based on the LLM tokens it uses on your behalf. [...] | Component | Description |\n --- |\n| Subscription | A flat monthly fee based on your plan tier |\n| Resource Usage | Pay only for the CPU, memory, storage, and egress you actually use |\n\nYour subscription fee goes toward your resource usage - if you're on the Hobby plan at $5/month and use $3 in resources, you just pay the $5 subscription. If you use $8 in resources, you pay $8 total.\n\n## Plans at a glance",
+    "score": 0.81699115,
+    "publishedAt": "2026-07-21"
+   },
+   {
+    "url": "https://www.srvrlss.io/provider/railway",
+    "title": "Railway Pricing 2026: Free Plan, Postgres & Alternatives",
+    "content": "Railway pricing is usage-based. The plan price is only the minimum spend: Hobby starts at $5/month and Pro starts at $20/month. CPU, memory, volumes, and network egress are billed on top, so the real bill depends on what your services actually consume.\n\nSee Railway pricing [...] ### Free Trial\n\n#### $ 0 $5 trial credit one time\n\n $5 free resource usage Available\n Code and database deployments Available\n\n### Hobby\n\n#### $ 5+ Minimum spend per month\n\n 8 GB RAM / 8 vCPU per service Available\n Single developer workspace Available\n Global regions Available\n\n### Pro\n\n#### $ 20+ Minimum spend per month\n\n 32 GB RAM / 32 vCPU per service Available\n Unlimited team seats included Available\n Multiple concurrent regions Available\n\n### Pro Add-Ons [...] ### Pro Add-Ons\n\n#### $ 500+ Minimum spend per month\n\n Support SLOs at $500 spend Available\n HIPAA BAAs at $1,000 spend Available\n Dedicated VMs at $10,000 spend Available\n\n### Resource Pricing\n\nPay for what you use, billed per minute.\n\n #### Memory\n\n  Per GB-second\n\n  $0.00000386\n #### CPU\n\n  Per vCPU-second\n\n  $0.00000772\n #### Network Egress\n\n  Per GB\n\n  $0.05\n #### Persistent Volume\n\n  Per GB\n\n  $0.15\n\nFind the full pricing details on the official Railway  pricing page",
+    "score": 0.8153795,
+    "publishedAt": "2025-03-21"
+   }
+  ]
+ }
+}

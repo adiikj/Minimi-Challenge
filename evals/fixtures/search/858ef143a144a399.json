@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"pipedrive pricing\",\"general\",\"\",[\"pipedrive.com\"]]",
+ "query": {
+  "q": "Pipedrive pricing",
+  "domains": [
+   "pipedrive.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://saleshive.com/vendors/pipedrive",
+    "title": "Pipedrive Pricing, Plans & Features (2026) | SalesHive",
+    "content": "Pipedrive sells four paid plans, priced per seat. Pipedrive's own pages put the range at $14 to $79 per seat per month on annual billing, and you can try it free for 14 days. Monthly billing costs more, because Pipedrive discounts annual plans.\n\nYour real bill is seats × plan price + add-ons + top-ups. Pipedrive's billing guide says you pay for every seat whether or not it is assigned to a user, so remove unused seats before renewal. [...] How much does Pipedrive cost in 2026?\n\nPipedrive lists four plans priced per seat, from $14 to $79 per seat per month on annual billing (US prices, checked November 3, 2026). Lite is $14, Growth $39 and Ultimate $79. Premium appeared as $59 in the indexed pricing page, so confirm it directly. Monthly billing costs more, and add-ons and top-ups are extra.\n\nDoes Pipedrive have a free plan or a free trial? [...] | Plan | Annual billing, per seat | What we could confirm |\n --- \n| Lite | $14/mo ($168/yr) | Core pipeline, contacts and activities. LeadBooster, Projects, Smart Docs, Campaigns and Web Visitors are add-ons. |\n| Growth | $39/mo ($468/yr) | Workflow automation and revenue forecast reports. Top-ups for automations, reports, leads and deals and API tokens start here. |",
+    "score": 0.86293024,
+    "publishedAt": "2025-12-12"
+   },
+   {
+    "url": "https://capsulecrm.com/blog/pipedrive-crm-pricing",
+    "title": "Pipedrive CRM pricing – Is it worth the cost?",
+    "content": "### Pipedrive CRM pricing plans\n\n#### Lite Plan – $24/user/month\n\n Lead, calendar, and pipeline management in one workspace\n Sales Assistant with AI-generated reports\n Real-time sales forecasts and insights\n Access to 500+ integrations\n Entry-level plan with limited automation features\n\n## Growth Plan – $49/user/month\n\n Full email sync with tracking\n Automations and nurturing sequences\n Meeting scheduler and contacts timeline\n Includes all Lite plan features\n\n#### Premium Plan – $79/user/month [...] ## FAQs\n\nPipedrive CRM pricing starts at $24 per user/month for the Lite Plan and goes up to $99 per user/month for the Ultimate Plan.  \n  \nIn comparison, Capsule CRM offers a free plan and starts paid plans from $21 per user/month for the Starter Plan and goes up to $75 per user/month for the Ultimate Plan.\n\nNo, Pipedrive does not offer a free plan, but it provides a 14-day free trial. [...] Lead generation and routing tools\n Custom scoring and company data enrichment\n AI-powered multi-email tools\n 24/7 live chat and phone support\n\n#### Ultimate Plan – $99/user/month\n\n Fortified account security with rules and alerts\n Phone and email data enrichment\n Maximized usage limits across the platform",
+    "score": 0.8625833,
+    "publishedAt": "2025-12-23"
+   },
+   {
+    "url": "https://www.larksuite.com/en_us/blog/pipedrive-pricing",
+    "title": "Guide to Pipedrive Pricing | Lark",
+    "content": "|  |  |  |  |\n ---  --- |\n| Plan name​ | Price (Billed annually)​ | Price (Billed monthly)​ | Ideal for​ |\n| Lite​ | $14 per user/month​ | $24 per user/month​ | Solopreneurs and very small teams.​ |\n| Growth​ | $39 per user/month​ | $49 per user/month​ | Small, growing teams that need email integration and basic automation.​ |\n| Premium​ | $59 per user/month​ | $79 per user/month​ | Established sales teams that need collaboration tools and forecasting.​ | [...] | Ultimate​ | $79 per user/month​ | $99 per user/month​ | Larger businesses that need advanced security, support, and control.​ | [...] |  |  |  |  |\n ---  --- |\n| Add-on ​ | Starting price (Monthly)​ | Billed​ | Description​ |\n| LeadBooster​ | $32.50​ | Per company​ | Captures leads via chatbot, live chat, web forms, and a prospector tool.​ |\n| Web Visitors​ | $41​ | Per company​ | Identifies anonymous companies visiting the website using IP tracking.​ |\n| Campaigns​ | $13.33​ | Per company​ | Enables email marketing campaigns directly from within Pipedrive.​ |",
+    "score": 0.86165464,
+    "publishedAt": "2026-09-18"
+   },
+   {
+    "url": "https://www.method.me/blog/how-much-does-pipedrive-cost",
+    "title": "How much does Pipedrive cost in 2026? — Method",
+    "content": "Pipedrive’s tiered plans are fairly easy to follow. Each tier adds more tools and flexibility, so you can choose what matches your team’s size and sales process.\n\nHere are Pipedrive’s four main pricing tiers:\n\n|  |  |  |\n --- \n| Plan | Annual billing | Monthly billing |\n| Lite | $14/seat/month | $24/seat/month |\n| Growth | $39/seat/month | $49/seat/month |\n| Premium | $49/seat/month | $79/seat/month |\n| Ultimate | $79/seat/month | $99/seat/month | [...] There’s no exact cost when subscribing to Pipedrive. Its paid plans start at $14 per user/month for Lite (entry-level plan), but the real cost usually goes up once you factor in add-ons, automation, and additional seats.\n\nFor example, adding LeadBooster, Campaigns, or Projects can easily double your monthly bill. Your total will depend on team size, required features, and billing frequency (monthly or annually).\n\n## Are the cheaper Pipedrive plans enough for my business? [...] |  |  |  |\n --- \n| Add-on | Monthly rate | What it includes |\n| LeadBooster 🚀 | From $32.50/month per company | Chatbot, live chat, web forms, Prospector |\n| Web Visitors 👥 | $49/month (up to 200 orgs)  $99/month (201–500 orgs) $299/month (501–2000 orgs) | Identify, count, and track leads from visiting organizations |\n| Campaigns 📣 | Starting from $13.33/company | Email marketing, tracking, analytics, filtering, automation on Growth+ plans |",
+    "score": 0.86036915,
+    "publishedAt": "2025-09-10"
+   },
+   {
+    "url": "https://support.pipedrive.com/en/article/how-does-pricing-work-in-pipedrive",
+    "title": "How does pricing work in Pipedrive? - Knowledge Base | Pipedrive",
+    "content": "| Top-up type | Top-up quantity | Maximum | Available from |\n ---  --- |\n| API tokens  (max. 100 million per company) | +250,000 | 10 | Growth plan |\n| Leads + Deals  (max. 300,000 per company) | +25,000 | 10 | Growth plan |\n| Reports | +50 | 10 | Growth plan |\n| Automations | +50 | 10 | Growth plan |\n| Data enrichment credits | +100 | 10,000 | Premium plan |\n| Prospector credits | +10 | 1000 | Premium plan |\n| Teams | +10 | 10 | Premium plan | [...] Selected plan – Each plan (Lite, Growth, Premium, Ultimate) has its own base price per seat\n Billing cycle – You can choose between annual or monthly billing\n Number of seats – You’re charged per seat, whether it’s assigned to a user or not. Learn more about seats and users.\n Add-ons and top-ups – Optional features and usage extensions that follow your plan's billing cycle\n Currency and location – Your location determines the billing currency and available payment methods [...] Note: Only users with account settings access rights can manage Pipedrive billing. Learn more about user management in this article.\n\nPipedrive offers four pricing plans to fit teams of any size: Lite, Growth, Premium and Ultimate. You can further customize your subscription with optional add-ons and top-ups.\n\nTo view and edit your current subscription, open the account menu in the top-right corner and go to Billing.\n\n## Pipedrive plans and billing cycles",
+    "score": 0.82375413,
+    "publishedAt": "2026-09-02"
+   }
+  ]
+ }
+}

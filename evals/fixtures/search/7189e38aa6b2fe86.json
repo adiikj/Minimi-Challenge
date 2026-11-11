@@ -1,0 +1,49 @@
+{
+ "key": "[\"tavily\",\"fast\",\"salesforce sales cloud pricing\",\"general\",\"\",[\"salesforce.com\"]]",
+ "query": {
+  "q": "Salesforce Sales Cloud pricing",
+  "domains": [
+   "salesforce.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tech.co/crm-software/salesforce-pricing-how-much-does-salesforce-cost",
+    "title": "Price for Salesforce: 2026 CRM Pricing Breakdown",
+    "content": "Salesforce offers three different pricing plans for its Sales Cloud. It’s also worth noting that the Service Cloud from Salesforce follows the same pricing model, with the same plans at the same price point.\n\n Enterprise – $175 per user, per month\n Unlimited – $350 per user, per month\n Agentforce 1 Sales – $550 per user, per month\n\nThe Enterprise plan is a big upgrade from the Suite plans because it adds a lot of analytics tools, including cross filters and joined reports. [...] Salesforce pricing starts at $25 per user, per month, for the Starter Suite, which provides users with basic sales, service, and marketing tools.\n Salesforce offers a free forever plan for up to two users.\n Salesforce offers industry-specific “Clouds” for sales, service, and marketing, which start at $195 per user, per month. [...] Agentforce 1 Editions ($550 per user, per month): These are specific all-in-one bundles that give you unmetered access to Agentforce in the Sales Cloud and Service Cloud, as well as $2.5m Flex Credit per organization, per year.\n Agentforce add-on ($125 per user, per month): Agentforce can also be added to less expensive plans in the Sales, Service, and Field Service Clouds. For any other industry cloud, you’ll have to pay $150 per user, per month.",
+    "score": 0.918663,
+    "publishedAt": "2022-12-12"
+   },
+   {
+    "url": "https://www.salesforce.com/sales/cloud",
+    "title": "Sales Force Automation Software by Sales Cloud | Salesforce",
+    "content": "See how we’re evaluated in the 2026 Gartner® Magic Quadrant™.\n\nGet the report\n\n## Sales Cloud Pricing\n\nFind the right Sales Cloud edition for your business needs.\n\n### Starter Suite\n\nThe smart CRM suite with even more sales, service, marketing – plus commerce.\n\n$ 25\n\nUSD/User/Month\n\n(Billed monthly or annually)\n\n$ 25\n\nUSD/User/Month\n\n(Billed monthly or annually)\n\n25 €\n\nEUR/User/Month\n\n(Billed monthly or annually)\n\nAU$ 35\n\nAUD/User/Month\n\n(Billed monthly or annually)\n\n3,000 円\n\nJPY/User/Month [...] (Billed annually)\n\n66,000 円\n\nJPY/User/Month\n\n(Billed annually)\n\n5,500 kr\n\nSEK/User/Month\n\n(Billed annually)\n\n£ 440\n\nGBP/User/Month\n\n(Billed annually)\n\n Everything in Advanced, plus our full suite of AI\n Agentforce for Sales and Agentforce Coworker\n Salesforce Spiff, Sales Planning, Sales Programs, Salesforce Maps, Tableau Next, and Slack Enterprise+\n 2.75M Flex Credits per org per year\n\nContact us [...] JPY/User/Month\n\n(Billed monthly or annually)\n\n250 kr\n\nSEK/User/Month\n\n(Billed monthly or annually)\n\n£ 20\n\nGBP/User/Month\n\n(Billed monthly or annually)\n\n Lead, Account, Contact, and Opportunity Management\n Built-in Sales Flows and Lead Routing\n AI Automatically Syncs Emails, Events, and Contacts\n Dynamic Email Marketing and Analytics\n\nTry for free\n\n### Pro Suite\n\nThe flexible CRM suite with more automation and customization across sales, service, marketing, and commerce.\n\n$ 100\n\nUSD/User/Month",
+    "score": 0.9051298,
+    "publishedAt": "2025-10-15"
+   },
+   {
+    "url": "https://www.salesforce.com/small-business/pricing",
+    "title": "Salesforce Small Business Pricing: All-in-One CRM Solutions | Salesforce",
+    "content": "### How much does Starter cost?\n\nIf a prospect wants to purchase the Starter Suite SKU, the cost is $25 USD per user per month, billed monthly or annually. There is no user maximum. All purchases are completed using Your Account.\n\n### How much does Sales Cloud cost?\n\nSales Cloud pricing varies depending on the edition, number of users, and add-on products. Pricing starts at $25 USD per user per month for Starter edition. Contact us to talk about your specific business needs and use cases. [...] ### How much does Service Cloud cost?\n\nService Cloud pricing varies depending on the edition, number of users, and add-on products. Pricing starts at $25 per user per month for Starter edition. Contact us to talk about your specific business needs and use cases.\n\n### How much does Account Engagement cost? [...] Starter Suite\n\n$\n25\n\nuser/month\n\n$\n25\n\nuser/month\n\n25\n€\n\nuser/month\n\nAU$\n35\n\nuser/month\n\n3,000\n円\n\nuser/month\n\n250\nkr\n\nuser/month\n\n£\n20\n\nuser/month\n\nPro Suite\n\n$\n100\n\nuser/month\n\n$\n100\n\nuser/month\n\n100\n€\n\nuser/month\n\nAU$\n140\n\nuser/month\n\n12,000\n円\n\nuser/month\n\n1,000\nkr\n\nuser/month\n\n£\n80\n\nuser/month\n\nSocial Sign-on\n\nGuided Onboarding\n\nCustom Fields\n\nCustom Apps\n\nCustom Objects\n\nProcess Automation with Flows\n\nSandbox for Testing and Training\n\nAppExchange Access\n\nWeb Services API",
+    "score": 0.8858788
+   },
+   {
+    "url": "https://www.salesforce.com/sales/enablement/pricing",
+    "title": "Sales Program Pricing",
+    "content": "Salesforce Program pricing varies depending on the edition and number of users. Pricing starts at $100 USD per user per month. Contact us to talk about your specific business needs and use cases.\n\n### Does the cost of Sales Programs change based on my Sales Cloud edition?\n\nThe overall cost of Sales Programs depends on the number of user licenses you wish to add, not on your Sales Cloud edition.\n\n### Can I get a free trial of Salesforce Sales Programs?",
+    "score": 0.8568246,
+    "publishedAt": "2025-12-17"
+   },
+   {
+    "url": "https://www.salesforce.com/sales/pricing",
+    "title": "Salesforce Sales Pricing | Salesforce",
+    "content": "Everything in Starter Plus Greater Customization and Automation \n     Sales Quoting and Forecasting \n     Access to AgentExchange \n     Premier Support (add-on) \n\nTry for free\n\n## Upgrade your suite to scale with Sales Cloud.\n\nCurrency converter \n\n### Core\n\n The CRM for sales with built-in AI, Slack, Tableau, and Agentforce skills to keep every deal moving. \n\n$195\n\n USD/User/Month \n\n (Billed annually) \n\n$195\n\n USD/User/Month \n\n (Billed annually) \n\n195€\n\n EUR/User/Month [...] Starter Suite costs $25 USD per user, per month. It's an all-in-one CRM designed for small businesses, bringing together sales, service, marketing and commerce tools. Plus, it includes Slack at no extra cost for seamless collaboration.\n\n### What is the Sales Cloud Core plan? [...] Sales Cloud pricing follows a per-user, per-month subscription model. You pay a monthly fee for each user who needs access. Pricing varies by edition, with each offering different features and levels of functionality to fit your business needs.\n\n### Is there a free version of Sales Cloud?",
+    "score": 0.853046,
+    "publishedAt": "2026-10-28"
+   }
+  ]
+ }
+}

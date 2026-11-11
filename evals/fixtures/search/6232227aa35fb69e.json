@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"pipedrive pricing plans per seat lite growth premium ultimate\",\"general\",\"\",[\"pipedrive.com\"]]",
+ "query": {
+  "q": "Pipedrive pricing plans per seat Lite Growth Premium Ultimate",
+  "domains": [
+   "pipedrive.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://saleshive.com/vendors/pipedrive",
+    "title": "Pipedrive Pricing, Plans & Features (2026) | SalesHive",
+    "content": "How much does Pipedrive cost in 2026?\n\nPipedrive lists four plans priced per seat, from $14 to $79 per seat per month on annual billing (US prices, checked November 3, 2026). Lite is $14, Growth $39 and Ultimate $79. Premium appeared as $59 in the indexed pricing page, so confirm it directly. Monthly billing costs more, and add-ons and top-ups are extra.\n\nDoes Pipedrive have a free plan or a free trial? [...] \\Lite and Ultimate match Pipedrive's published $14 to $79 range, and Growth matches its $39 starting price for automation. Pipedrive's pricing page blocked our direct read, so Premium's $59 comes from the search-indexed copy of that page, and one other search summary returned $64. Confirm Premium on Pipedrive's pricing page before you budget.\n\n### Add-ons by plan [...] Pipedrive sells four paid plans, priced per seat. Pipedrive's own pages put the range at $14 to $79 per seat per month on annual billing, and you can try it free for 14 days. Monthly billing costs more, because Pipedrive discounts annual plans.\n\nYour real bill is seats × plan price + add-ons + top-ups. Pipedrive's billing guide says you pay for every seat whether or not it is assigned to a user, so remove unused seats before renewal.",
+    "score": 0.9544823,
+    "publishedAt": "2025-12-12"
+   },
+   {
+    "url": "https://axisconsulting.io/pipedrive-pricing-plans",
+    "title": "Pipedrive Pricing 2026: What You Actually Pay Per User",
+    "content": "Pipedrive’s four plans, per seat monthly on annual billing, are Lite ($14), Growth ($39), Premium ($59), and Ultimate ($79). Monthly billing runs $24, $49, $79, and $99.\n There is no permanent free plan. Every plan includes a 14-day free trial, no credit card required.\n Growth is the entry point for most active sales teams, since Lite lacks two-way email sync, sequences, and automation entirely.\n Premium bundles LeadBooster, Smart Docs, and Projects at no extra add-on charge. [...] Annual billing saves a flat $10 per seat monthly on Lite and Growth, and a flat $20 per seat monthly on Premium and Ultimate.   \n  \nBecause that flat saving is measured against different starting prices, the percentage saved is not uniform across the lineup.   \n  \nPipedrive’s own marketing line, “save up to 42%,” reflects the Lite calculation specifically, not an average across all four plans. [...] ### What is the cheapest Pipedrive plan with two-way email sync?\n\nGrowth, at $39 per seat monthly on annual billing, is the least expensive plan that includes two-way email sync. Lite does not include this feature at any price.\n\n### Which Pipedrive plan includes LeadBooster?\n\nPremium and Ultimate include LeadBooster at no additional charge. On Lite and Growth, LeadBooster is a separate add-on starting at $32.50 per month, billed per company rather than per seat.",
+    "score": 0.9496742,
+    "publishedAt": "2025-10-21"
+   },
+   {
+    "url": "https://www.withorb.com/pricing-atlas/pipedrive",
+    "title": "How Pipedrive prices: pricing page breakdown (2026)",
+    "content": "The seat is the value metric, and the four plans separate on capability. Lite is 'Focus on selling and let meeting intelligence handle the admin' at US$ 14, Growth 'Automate emails and follow-ups so you can focus on closing' at US$ 39, Premium 'Drive success from lead to close with full-cycle sales tools' at US$ 59, and Ultimate 'Optimize performance with our complete suite of capabilities' at US$ 79, each 'Per seat per month, billed annually'. The ladder follows the sales cycle: Growth adds [...] ### Is Pipedrive implementation free?\n\nYes. The Pipedrive FAQ states that \"implementation is free when you sign up for a pricing plan\" that costs \"over $400 a year.\" Annual plans are shown as one payment per seat, from \"US$ 168 per seat/year\" on Lite to \"US$ 948 per seat/year\" on Ultimate, so the threshold depends on the plan and number of seats. This makes free implementation available to a wide range of paid teams.\n\n### Can my team join my Pipedrive free trial? [...] | Plan | Price | Billing |\n --- \n| LiteFocus on selling and let meeting intelligence handle the admin | US$ 14 | Per seat per month, billed annually |\n| GrowthAutomate emails and follow-ups so you can focus on closing | US$ 39 | Per seat per month, billed annually |\n| PremiumHighlightedDrive success from lead to close with full-cycle sales tools | US$ 59 | Per seat per month, billed annually |",
+    "score": 0.9322132,
+    "publishedAt": "2026-11-02"
+   },
+   {
+    "url": "https://support.pipedrive.com/en/article/how-does-pricing-work-in-pipedrive",
+    "title": "How does pricing work in Pipedrive? - Knowledge Base | Pipedrive",
+    "content": "Selected plan – Each plan (Lite, Growth, Premium, Ultimate) has its own base price per seat\n Billing cycle – You can choose between annual or monthly billing\n Number of seats – You’re charged per seat, whether it’s assigned to a user or not. Learn more about seats and users.\n Add-ons and top-ups – Optional features and usage extensions that follow your plan's billing cycle\n Currency and location – Your location determines the billing currency and available payment methods [...] Note: Only users with account settings access rights can manage Pipedrive billing. Learn more about user management in this article.\n\nPipedrive offers four pricing plans to fit teams of any size: Lite, Growth, Premium and Ultimate. You can further customize your subscription with optional add-ons and top-ups.\n\nTo view and edit your current subscription, open the account menu in the top-right corner and go to Billing.\n\n## Pipedrive plans and billing cycles [...] | Top-up type | Top-up quantity | Maximum | Available from |\n ---  --- |\n| API tokens  (max. 100 million per company) | +250,000 | 10 | Growth plan |\n| Leads + Deals  (max. 300,000 per company) | +25,000 | 10 | Growth plan |\n| Reports | +50 | 10 | Growth plan |\n| Automations | +50 | 10 | Growth plan |\n| Data enrichment credits | +100 | 10,000 | Premium plan |\n| Prospector credits | +10 | 1000 | Premium plan |\n| Teams | +10 | 10 | Premium plan |",
+    "score": 0.87218446,
+    "publishedAt": "2026-09-02"
+   },
+   {
+    "url": "https://support.pipedrive.com/en/article/usage-limits-in-pipedrive",
+    "title": "Usage limits in Pipedrive - Knowledge Base | Pipedrive",
+    "content": "|  |  |  |  |  |\n ---  --- \n| Feature | Lite | Growth | Premium | Ultimate |\n| Leads and deals (per company) | 2,500 x seats  (up to 300,000) | 5,000 x seats  (up to 300,000) | 15,000 x seats  (up to 300,000) | 20,000 x seats  (up to 300,000) |\n| Custom fields (per company) | 30 | 100 | 300 | 500 |\n| Insights reports (per user) | 15 | 50 | 250 | 500 |\n| Automations (per company) | N/A | 50 | 150 | 250 |\n| If/else condition (per automation) | N/A | 3 | 10 | 20 |",
+    "score": 0.7900289,
+    "publishedAt": "2026-10-11"
+   }
+  ]
+ }
+}

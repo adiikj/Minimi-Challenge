@@ -1,0 +1,47 @@
+{
+ "key": "[\"tavily\",\"fast\",\"pipedrive announcement\",\"news\",\"2026-11-09\",[]]",
+ "query": {
+  "q": "Pipedrive announcement",
+  "since": "2026-11-09",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tavily.com/knowledge/company/sss0e61XQyEL",
+    "title": "Pipedrive",
+    "content": "# Pipedrive\nID: sss0e61XQyEL\nWebsite: www.pipedrive.com\nHeadquarters: New York, New York, United States\nLinkedIn: www.linkedin.com/company/pipedrive · 118,244 followers\nIndustry: Software Development\nIndustry codes: SIC 73, 737, NAICS 54, 541\nCompany type: Privately Held\nParent company: Vista Equity Partners Management, LLC (www.vistaequitypartners.com/)\nFounded: 2010 [...] - Private Equity Round 2020-11-01 1.50B USD\n- Series C 2018-10-10 10.00M USD\n- Series C 2018-06-14 50.00M USD\n- Series B 2017-01-18 17.00M USD\n- Venture Round 2015-11-12 803.11K USD\n- Series A 2015-05-14 9.00M USD\n- Seed Round 2013-09-18 2.40M USD\n- Seed Round 2013-05-01 1.00M USD\n- Seed Round 2012-07-31 1.00M USD\n- Seed Round 2011-10-01 [...] ## Funding\n- Rounds: 10\n- Total raised: 1.59B USD\n- Investors: Rembrandt Venture Partners, Insight Partners, Bessemer Venture Partners, Atomico, SquareOne Venture Capital, AngelPad, MONASHEES, Andy McLoughlin, Christopher Muenchhoff, Monashees, Vista Equity Partners, Satori Capital, TMT Investments, BluePointe Ventures, Ott Kaukver, Rain Rannu, Storm Ventures, Taavet Hinrikus, Tytus Michalski, Fresco Capital, DTCP\n- Last round: Private Equity Round 2020-11-01 1.50B USD",
+    "score": 0.62897736
+   },
+   {
+    "url": "https://www.linkedin.com/posts/charlestenot_amongst-the-8-tech-companies-that-announced-activity-7525902265459695616-cN_Y",
+    "title": "Amongst the 8 tech companies that announced job cuts recently, only one is led by a woman. I find it interesting that it's also the one that offered the most generous (publicly disclosed) severance… | Charles Tenot",
+    "content": "Amongst the 8 tech companies that announced job cuts recently, only one is led by a woman. I find it interesting that it's also the one that offered the most generous (publicly disclosed) severance package. Microsoft, Pipedrive, Squarespace, Angi, NICE, Block, Amazon and Canva all announced job cuts, restructurings or buyouts lately. Canva, led by Melanie Perkins, stood out They announced a restructuring affecting 1,271 employees, or 22% of their workforce. Here's what they offered employees [...] offered employees leaving: → 6 months or more of salary, including statutory severance, in every country → 12 months of healthcare coverage where provided → removal of the 1-year equity vesting cliff for recent hires → employees get to keep their MacBooks → career coaching, interview preparation and 1 year of LinkedIn Premium → the option to apply for a $10K grant to start a business, with no equity taken For context, the average tech severance package in 2024 was roughly 11 weeks. This package [...] weeks. This package goes way beyond what's usually done and my reading is that they really aimed at helping people with all the little details. I don't know if it's a coincidence that the only female CEO in this group offered such a generous package, but I find it interesting. I wrote last week about how layoffs are often the consequence of poor management decisions. And while I still believe many layoffs could be avoided, sometimes they're necessary. But I think that the bare minimum you can",
+    "score": 0.49227586
+   },
+   {
+    "url": "https://www.sanity.io/blog/november-releases-2026",
+    "title": "November product releases | Sanity",
+    "content": "Deals sync in from Pipedrive. AI researches the client and drafts the offer from past projects. An approval step built with Sanity Workflows (in beta now) checks it, and one click sends a branded PDF and email to the client. The pipeline tracks each deal until it is won or lost.\n\nWhat Maciej did not expect was how easy it is to manage through MCP. As he describes it, the content model is the same one you would use for a website, pointed at a different job. [...] That’s, it, that’s the post. Join us on Discord to see community projects and new releases as they ship. See you all in December. [...] John Siciliano\n\n  Senior Technical Product Marketing Manager\n\nPublished",
+    "score": 0.4112882,
+    "publishedAt": "2026-11-09"
+   },
+   {
+    "url": "https://www.demandgenreport.com/uncategorized/6sense-repositions-as-partner-for-agentic-gtm/55339",
+    "title": "6sense Repositions as Partner for Agentic GTM - B2BMX INSIGHTS",
+    "content": "AI Phone Training\n\nConnected Commerce Chain\n\nB2B Buyer Trust\n\nAI GTM platform\n\nGEO AI Era\n\nBuying Group Activation\n\nMeeting Intelligence\n\nB2BMX Summit Speakers\n\nAgentic AI Sales\n\nAI Readiness\n\nAI Overviews\n\nCustomer Digital Twin\n\nIntelligent Creative Scale\n\nCausal Marketing Measurement\n\nDeath of Keyword\n\nIntegrate acquires CaliberMind\n\nB2BMX AWNY 2026\n\nGoverned AI Attribution\n\nClean Data ROI\n\nAgentic Retail Media\n\nIntent-driven GTM\n\nMartech Alignment\n\nPipedrive’s Sean Evers\n\nAI Ad Creation [...] AI agent workflows\n\nAI Creative Testing\n\nAI Referral Traffic\n\nCTR vs Pipeline\n\nevent lead enrichment\n\nmartech maturity gaps\n\nChatbot Ad Verification\n\nLanding Page ROI\n\nRevenue Attribution Survey\n\nAgentic Experience Platform\n\nPermission-based Presence\n\nPipeline Intelligence Layer\n\nTake DGR Survey\n\nConversational AI\n\nAI Search Ads\n\nSummer Camp Recap\n\nRepeatable AI Workflows\n\nMarketing Production Bottlenecks\n\nCategory Authority Signals\n\nAgentic AI Support\n\nAI Search Visibility\n\nAI vs. Jobs [...] ### Related stories:\n\n 6sense: Vendors Need to Be Known and Preferred Before the Buying Journey Begins\n 2026 B2BMX Insights Benchmark Report: 44% Now Prioritize Pipeline Influence Over Lead-Based Metrics\n\nPosted in: Uncategorized",
+    "score": 0.2725083,
+    "publishedAt": "2026-11-10"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/airbyte-adds-semantic-search-help-170000505.html",
+    "title": "Airbyte Adds Semantic Search to Help AI Agents Find Answers Across Enterprise Data",
+    "content": "Airbyte also expanded its certified connector portfolio with Ashby, Gmail, MySQL, Pipedrive and Reddit Ads. Airbyte engineers maintain these connectors, back them with support service-level agreements and follow a published policy for breaking changes. The additions strengthen pipelines for operational and text-rich business data, including email conversations, recruiting feedback and sales notes.",
+    "score": 0.25256836,
+    "publishedAt": "2026-11-10"
+   }
+  ]
+ }
+}

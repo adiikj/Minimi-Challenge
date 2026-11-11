@@ -1,0 +1,51 @@
+{
+ "key": "[\"tavily\",\"fast\",\"neon postgres pricing free tier plans\",\"general\",\"\",[\"neon.com\"]]",
+ "query": {
+  "q": "Neon Postgres pricing free tier plans",
+  "domains": [
+   "neon.com"
+  ],
+  "kind": "general"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://neon.com/docs/introduction/plans",
+    "title": "Neon plans - Neon Docs",
+    "content": "The Free plan costs $0/month and includes 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU (≈8 GB RAM), 1 GB of Postgres storage per project (up to 20 GB total across all projects), and 5 GB of public network transfer per project per month. It also includes a 6-hour instant restore history (capped at 1 GB-month of changes), 1 manual snapshot, up to 60,000 Managed Better Auth MAU, 1 day of monitoring history, and community support. [...] Free: Prototypes, side projects, and small teams. Includes 100 projects, 100 CU-hours/project, 1 GB Postgres storage per project (up to 20 GB total across all projects), and 5 GB of egress per project. Upgrade if you need more resources or features.\n Launch: Startups and growing teams needing more resources, features, and flexibility. Pay only for what you use. [...] | Plan feature | Free | Launch | Scale |\n ---  --- |\n| Price | $0/month | Pay for what you use | Pay for what you use |\n| Who it's for | Prototypes, side projects, and small teams | Startups and growing teams | Production-grade workloads and larger companies |\n| Organization members | Unlimited | Unlimited | Unlimited |\n| Projects | 100 | 100 | 1,000 (can be increased on request) |\n| Branches | 10/project | 10/project | 25/project |",
+    "score": 0.81640637,
+    "publishedAt": "2025-05-30"
+   },
+   {
+    "url": "https://neon.com/faqs/free-plan-limits-and-quotas",
+    "title": "What are the limits and quotas for Neon's Free plan? - Neon FAQs",
+    "content": "The Neon Free plan costs $0/month and includes 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, 1 GB of Postgres storage per project (up to 20 GB total across all projects), and 5 GB of public network transfer per project per month. Computes scale to zero after 5 minutes of inactivity and can scale up to 2 CU (≈8 GB RAM) when active. See the Plans page for the full table.\n\n## What's included [...] The Launch plan has no monthly minimum. You pay $0.106 per CU-hour and $0.35 per GB-month for what you use. It raises autoscaling to 16 CU (≈64 GB RAM), the history window to 7 days, manual snapshots to 100, and public network transfer to 500 GB per project per month. It also lets you disable scale to zero and adds protected branches and spending notifications. The project and branch allowances stay at 100 projects and 10 branches per project, and extra branches cost $1.50/branch-month. For an [...] None of these limits delete your data. Compute resumes when the next monthly window opens or you move to a paid plan.\n\n#### Suspended computes and storage\n\nA suspended compute uses no CU-hours, but your data stays in storage. On the Free plan, it counts against the 1 GB cap. On paid plans, storage bills at $0.35/GB-month whether the compute is running or not.\n\n## When to consider the Launch plan",
+    "score": 0.8118252,
+    "publishedAt": "2026-06-07"
+   },
+   {
+    "url": "https://neon.com",
+    "title": "Neon — Postgres backends for apps and agents",
+    "content": "View Pricing\n\n \n\n  ### Powerful Free Tier\n\n  100 free projects with Database, Storage, Functions & Auth\n \n\n  ### Starts at $0\n\n  There are no fixed fees for security and compliance features.\n \n\n  ### Efficient dev/test\n\n  Scale-to-zero and copy-on-write keep non-production costs low.\n \n\n  ### No-Fee AI Gateway\n\n  At-cost rates for frontier models with no add-on fees.\n\n## The world's most advanced backend platform.",
+    "score": 0.7995989,
+    "publishedAt": "2026-08-17"
+   },
+   {
+    "url": "https://medium.com/@alexeylark/neon-does-going-serverless-solve-fixed-expenses-for-postgres-b54786af3f40",
+    "title": "Neon: Does Going Serverless Solve Fixed Expenses for Postgres?",
+    "content": "Free-Tier has fixed 0.25 vCPU, 1 GB RAM, and most notably just 0.5 GB of storage. The storage plays the biggest limiting factor here, although it’s perfectly sufficient for really small projects, and again, it’s totally free and it can scale once we decide to pay.\n\nPaid Tier “Launch” — comes at $19, has up to 4 vCPU and 16 GB RAM, with 300 vCPU-hours included in the plan monthly. Plan features 10 GB of storage included, with a price of $3.50 per extra 2GB/month. [...] Free tier has no time limit on vCPU-hours, which is equal to 0.25 x 30 x 24 = 180 vCPU hours included. To have 10 GB of storage we would need to pay for the Launch tier at $19, which would also increase compute capacity.\n\nTotal cost monthly: $0.\n\n2. Average config: 4 vCPU + 16 GB RAM + 100 GB storage. [...] Storage is priced at $0.17 per GB-month and starts from 10 GB.\n\nDefault dedicated-core nodes come from 1 vCPU at $0.041 per vCPU/hour, and 4 GB RAM at $0.007 per GB/hour with separate vCPU and RAM billing.\n\n### 2. Neon\n\nNeon offers a free tier and two pre-defined tiers (the ones which don’t require contacting sales) with fixed pay and additional per-usage pricing on top.",
+    "score": 0.7921428,
+    "publishedAt": "2024-04-25"
+   },
+   {
+    "url": "https://neon.com/pricing",
+    "title": "Pricing — Neon",
+    "content": "Neon now has realtime: Live SQL with full reactivity. Try it in Beta today\n\nDiscord23.3k\n\nLog inSign up\n\n# Neon pricing\n\nGet started for free. Pay per usage as you grow.\n\n## Neon pricing plans\n\n ### Free\n\n  #### $0\n\n  Build and learn free with no time limits and no credit card required.\n\n  Try Neon\n\n  Lakebase Postgres\n\n  + 100 projects\n  + 100 CU-hrs monthly per project\n  + 1 GB of storage per project\n  + Sizes up to 2 CU (8 GB RAM)\n  + Unlimited team members\n\n  Backend [...] + The database runs at 0.25 CU, the default compute size for Free plan projects, for ~12 hours per day. It scales down to zero the rest of the time\n  + Over a month, this uses roughly 90 CU-hours (0.25 CU × 12 hours × 30 days), staying within the Free plan limits for that project\n  + At 0.25 CU, 100 CU-hours covers about 400 hours of active compute, more than half the hours in a month [...] Remember that when your database is idle, compute can scale down to zero, so you don't consume CU-hours while it's not running. Learn more about Neon's billing.\n On the Free plan, each project gets 100 CU-hours of database compute per month, and compute automatically scales down to zero when idle. What this means in practice:",
+    "score": 0.78249633,
+    "publishedAt": "2026-11-03"
+   }
+  ]
+ }
+}

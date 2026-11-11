@@ -1,0 +1,41 @@
+{
+ "key": "[\"tavily\",\"fast\",\"neon supabase railway pricing change november 2026\",\"news\",\"2026-11-03\",[]]",
+ "query": {
+  "q": "Neon Supabase Railway pricing change November 2026",
+  "since": "2026-11-03",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.prisma.io/blog/prisma-compute-postgres-same-region-networking",
+    "title": "How Prisma Compute reaches Prisma Postgres (2026)",
+    "content": "PlatformSeptember 30, 2026·Updated November 9, 2026\n\n## App hosting platforms with managed Postgres compared (2026): Prisma Compute, Railway, Render, Fly.io, Supabase, Neon and Vercel\n\nPrisma Compute, Railway, Render, Fly.io, Supabase, Neon and Vercel compared for an app next to managed Postgres: previews, idle cost, pooling, backups and prices.\n\nGregory Boch\n\nGregory BochHow We Moved Prisma's Control Plane to Prisma Postgres Without Downtime\n\nPrisma PostgresOctober 26, 2026 [...] Gregory Boch\n\nGregory Boch\n\nGregory Boch is a product leader at Prisma focused on DevTools, agentic workflows, activation, and user research. With a background in engineering, startup founding, and computer science research, he writes from hands-on experience building developer products and turning technical decisions into better user experiences.\n\n## Keep reading\n\nApp hosting platforms with managed Postgres compared (2026): Prisma Compute, Railway, Render, Fly.io, Supabase, Neon and Vercel [...] Prisma: connection strings, credentials and regions, connection pooling, Prisma Postgres regions, keeping instances awake, Compute limitations, Compute FAQ. The resume time and the three-day connection limit come from the Prisma Compute team.\n Fly.io: private networking, Managed Postgres.\n Neon: Private Networking, IP Allow.\n Railway: private networking.\n Render: creating and connecting to Render Postgres.\n\n## Update history\n\n 2026-11-10: first published.\n\n## About the author\n\nGregory Boch",
+    "score": 0.4804549,
+    "publishedAt": "2026-11-10"
+   },
+   {
+    "url": "https://tavily.com/knowledge/company/bhw5g0Vh4Q1r",
+    "title": "Supabase",
+    "content": "# Supabase\nID: bhw5g0Vh4Q1r\nWebsite: www.supabase.com\nLegal name: Supabase Inc\nHeadquarters: Global\nLinkedIn: www.linkedin.com/company/supabase · 113,936 followers\nIndustry: IT Services and IT Consulting\nCompany type: Privately Held\nFounded: 2020 [...] - Last round: Series F 2026-06-01 500.00M USD\n- Series F 2026-06-01 500.00M USD\n- Series E 2025-11-03 100.00M USD\n- Series D 2025-04-01 200.00M USD\n- Series C 2024-09-25 80.00M USD\n- Series B 2022-05-10 80.00M USD\n- Series A 2021-09-09 30.00M USD\n- Seed Round 2020-12-15 6.00M USD\n- Seed Round 2020-08-25 125.00K USD\n- Series F [...] ## Headcount\n- Now: 423 · +250 yearly (144.5%) · +65 quarterly · +17 monthly\n  - Northern America: 153\n  - Northern Europe: 32\n  - Southern Europe: 30\n  - Western Europe: 27\n  - South Eastern Asia: 20\n  - Southern Asia: 16\n  - Australia New Zealand: 15\n  - Latin America: 14\n  - Eastern Europe: 9\n  - Sub Saharan Africa: 6\n  - Western Asia: 4\n  - Central Asia: 1\n  - Eastern Asia: 1\n  - Polynesia: 0\n  - Northern Africa: 0\n\n## Financials\n- Annual revenue: 28.00M USD",
+    "score": 0.34072697
+   },
+   {
+    "url": "https://dev.to/octave_nkurunziza_afb0512/cheapest-way-to-host-a-nodejs-app-in-2026-real-prices-50lc",
+    "title": "Cheapest way to host a Node.js app in 2026 (real prices) - DEV Community",
+    "content": "Render and Heroku database prices come from the cheapest database for a small app comparison, which also covers Neon, Supabase and Turso free tiers. If you'd rather keep the database on SQLite, put the file on a persistent volume: a 1 GB Standard volume on Hubfly space costs about $0.01 a month. Never keep SQLite on a container's normal disk, because that disk is wiped on every redeploy.\n\n### How the Hubfly space numbers add up [...] | Railway | 30-day trial with $5 credit, then $1 a month | Hobby $5 minimum, which includes $5 of usage | Usage at $10 per GB of RAM and $20 per vCPU a month |\n| Fly.io | $1 free to start, then pay as you go | $2.19: shared-cpu-1x, 256 MB; 512 MB about $3.69 | Extra RAM $6 per GB a month; North America prices |\n| Heroku | None | Basic $7: 0.5 GB | Eco $5 sleeps after 30 min of inactivity |",
+    "score": 0.2395187,
+    "publishedAt": "2026-11-07"
+   },
+   {
+    "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai",
+    "title": "2026: The State of Enterprise AI | Menlo Ventures",
+    "content": "Established systems are being rebuilt for machine speed and scale. Databases are still the systems agents touch most (91% of AI apps), but they’re shifting from manually provisioned, long-lived systems behind applications that persist for years to high-volume, ephemeral ones that agents spin up, use, and discard for each task. The rise of providers like Neon\\/Lakebase, Supabase, ClickHouse, and Archil shows this most strongly.",
+    "score": 0.17414358,
+    "publishedAt": "2026-11-03"
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "key": "[\"tavily\",\"fast\",\"salesforce sales cloud pro suite pricing\",\"general\",\"\",[\"salesforce.com\"]]",
+ "query": {
+  "q": "Salesforce Sales Cloud Pro Suite pricing",
+  "domains": [
+   "salesforce.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://softteco.com/blog/how-much-does-salesforce-cost",
+    "title": "How Much Does Salesforce Cost? License Pricing 💸",
+    "content": "Pro Suite starts at $100/user/month (billed annually). It offers complete CRM for growing businesses of any size that requires advanced customization and reporting capabilities.\n\n   Advanced automation and customization\n   Sales quote creation and forecast management\n   Access to AgentExchange\n   Customizable reports and dashboards [...] Pro Suite starts at $100/user/month (billed annually) plus transaction fees. This plan is designed for businesses that have started scaling and require more robust customer engagement tools. Pro Suite includes everything in Starter, plus better customization, automation, and more advanced features. [...] Core planstarts at $195/user/month (billed annually). The plan provides users with deeper automation, customization, and more control over sales workflows and is suitable for both mid-sized and large organizations. It includes everything in the Pro Suite and many new features.",
+    "score": 0.8967681,
+    "publishedAt": "2025-01-22"
+   },
+   {
+    "url": "https://www.salesforce.com/sales/pricing",
+    "title": "Salesforce Sales Pricing | Salesforce",
+    "content": "Try for free\n\n### Pro Suite\n\n The flexible CRM suite with more automation and customization across sales, service, marketing, and commerce. \n\n$100\n\n USD/User/Month \n\n (Billed annually) \n\n$100\n\n USD/User/Month \n\n (Billed annually) \n\n100€\n\n EUR/User/Month \n\n (Billed annually) \n\nAU$140\n\n AUD/User/Month \n\n (Billed annually) \n\n12,000 円\n\n JPY/User/Month \n\n (Billed annually) \n\n1,000 kr\n\n SEK/User/Month \n\n (Billed annually) \n\n£80\n\n GBP/User/Month \n\n (Billed annually) [...] |  | Free Suite $0 user/month $0 user/month 0€ user/month AU$0 user/month 0 円 user/month 0 kr user/month £0 user/month | Starter Suite $25 user/month $25 user/month 25€ user/month AU$35 user/month 3,000 円 user/month 250 kr user/month £20 user/month | Pro Suite $100 user/month $100 user/month 100€ user/month AU$140 user/month 12,000 円 user/month 1,000 kr user/month £80 user/month | Core $195 user/month $195 user/month 195€ user/month AU$273 user/month 23,400 円 user/month 1,950 kr user/month £156 [...] |  | Free Suite $0 user/month $0 user/month 0€ user/month AU$0 user/month 0 円 user/month 0 kr user/month £0 user/month | Starter Suite $25 user/month $25 user/month 25€ user/month AU$35 user/month 3,000 円 user/month 250 kr user/month £20 user/month | Pro Suite $100 user/month $100 user/month 100€ user/month AU$140 user/month 12,000 円 user/month 1,000 kr user/month £80 user/month | Core $195 user/month $195 user/month 195€ user/month AU$273 user/month 23,400 円 user/month 1,950 kr user/month £156",
+    "score": 0.8886914,
+    "publishedAt": "2026-10-28"
+   },
+   {
+    "url": "https://tech.co/crm-software/salesforce-pricing-how-much-does-salesforce-cost",
+    "title": "Price for Salesforce: 2026 CRM Pricing Breakdown",
+    "content": "Check out our Salesforce review for more information.\n\n### How much do Salesforce Starter and Pro Suite cost?\n\nSalesforce offers two Suite plans that provide small businesses with access to sales, service, and marketing features.\n\n Starter Suite – $25 per user, per month\n Pro Suite – $100 per user, per month [...] Salesforce offers three different pricing plans for its Sales Cloud. It’s also worth noting that the Service Cloud from Salesforce follows the same pricing model, with the same plans at the same price point.\n\n Enterprise – $175 per user, per month\n Unlimited – $350 per user, per month\n Agentforce 1 Sales – $550 per user, per month\n\nThe Enterprise plan is a big upgrade from the Suite plans because it adds a lot of analytics tools, including cross filters and joined reports. [...] |  | Plan | Price Billed annually | Users | Lead scoring | API | Advanced forecasting | Mobile app | Offline mobile access | Agentforce AI | Key features |\n ---  ---  ---  ---  --- \n| salesforce logo | salesforce logo | salesforce logo | salesforce logo | salesforce logo | salesforce logo |\n| Free Suite | Starter Suite | Pro Suite | Enterprise | Unlimited | Agentforce 1 Sales |\n| Free | $25/user/month | $100/user/month | $175/user/month | $350/user/month | $550/user/month |",
+    "score": 0.8559598,
+    "publishedAt": "2022-12-12"
+   },
+   {
+    "url": "https://www.salesforce.com/small-business/pro-suite",
+    "title": "Pro Suite: Try for Free Today | Salesforce",
+    "content": "### Can I access AgentExchange or integrate with other apps?\n\nYes, Pro gives you access to AgentExchange, a marketplace for apps that help you connect your CRM to external systems and data sources. When your workflows demand it, you can seamlessly integrate your favorite apps and discover powerful new solutions.\n\n### How much does Pro Suite cost?\n\nYou can try Pro Suite for 30 days - no credit card required. Pro starts at $100 USD per user, per month (annual contract required). [...] Your plan includes 2,000 email sends per month. Need to run larger campaigns? You can easily add 1,000 extra sends for just $10 USD per month.\n\nProcessing payments with Pro Suite is strictly pay-as-you-go. Rates vary by region and payment method—for example, U.S. credit card payments are 2.9% + $0.30 USD per transaction.",
+    "score": 0.8464638
+   },
+   {
+    "url": "https://www.salesforce.com/small-business/pricing",
+    "title": "Salesforce Small Business Pricing: All-in-One CRM Solutions | Salesforce",
+    "content": "|  | Starter Suite  $ 25  user/month  $ 25  user/month  25 €  user/month  AU$ 35  user/month  3,000 円  user/month  250 kr  user/month  £ 20  user/month | Pro Suite  $ 100  user/month  $ 100  user/month  100 €  user/month  AU$ 140  user/month  12,000 円  user/month  1,000 kr  user/month  £ 80  user/month |\n --- \n| Email Campaigns |  |  |\n| Smart Segmentation |  |  |\n| Premade Email Templates |  |  |\n| Drag-and-Drop Email Builder |  |  |\n| Einstein Send Time Optimization |  |  | [...] |  | Starter Suite  $ 25  user/month  $ 25  user/month  25 €  user/month  AU$ 35  user/month  3,000 円  user/month  250 kr  user/month  £ 20  user/month | Pro Suite  $ 100  user/month  $ 100  user/month  100 €  user/month  AU$ 140  user/month  12,000 円  user/month  1,000 kr  user/month  £ 80  user/month |\n --- \n| Integrated Email Support |  |  |\n| Case Management |  |  |\n| Knowledge Management |  |  |\n| Custom Email Templates |  |  |\n| Macros |  |  |\n| Omni-Channel Routing |  |  | [...] |  | Starter Suite  $ 25  user/month  $ 25  user/month  25 €  user/month  AU$ 35  user/month  3,000 円  user/month  250 kr  user/month  £ 20  user/month | Pro Suite  $ 100  user/month  $ 100  user/month  100 €  user/month  AU$ 140  user/month  12,000 円  user/month  1,000 kr  user/month  £ 80  user/month |\n --- \n| Social Sign-on |  |  |\n| Guided Onboarding |  |  |\n| Custom Fields |  |  |\n| Custom Apps |  |  |\n| Custom Objects |  |  |\n| Process Automation with Flows |  |  |",
+    "score": 0.83452857
+   }
+  ]
+ }
+}

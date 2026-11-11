@@ -1,0 +1,40 @@
+{
+ "key": "[\"tavily\",\"fast\",\"neon supabase railway pricing changes\",\"news\",\"2026-11-03\",[]]",
+ "query": {
+  "q": "Neon Supabase Railway pricing changes",
+  "since": "2026-11-03",
+  "kind": "news"
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://tavily.com/knowledge/company/bhw5g0Vh4Q1r",
+    "title": "Supabase",
+    "content": "# Supabase\nID: bhw5g0Vh4Q1r\nWebsite: www.supabase.com\nLegal name: Supabase Inc\nHeadquarters: Global\nLinkedIn: www.linkedin.com/company/supabase · 113,936 followers\nIndustry: IT Services and IT Consulting\nCompany type: Privately Held\nFounded: 2020 [...] - Last round: Series F 2026-06-01 500.00M USD\n- Series F 2026-06-01 500.00M USD\n- Series E 2025-11-03 100.00M USD\n- Series D 2025-04-01 200.00M USD\n- Series C 2024-09-25 80.00M USD\n- Series B 2022-05-10 80.00M USD\n- Series A 2021-09-09 30.00M USD\n- Seed Round 2020-12-15 6.00M USD\n- Seed Round 2020-08-25 125.00K USD\n- Series F [...] ## Funding\n- Rounds: 9\n- Total raised: 996.12M USD",
+    "score": 0.56661874
+   },
+   {
+    "url": "https://tavily.com/knowledge/company/IPQsy7WMEckH",
+    "title": "Neon",
+    "content": "# Neon\nID: IPQsy7WMEckH\nWebsite: www.neon.com.br\nLegal name: Neon Pagamentos\nHeadquarters: São Paulo, SP, Brazil\nLinkedIn: www.linkedin.com/company/timeneon · 1,000,505 followers\nIndustry: Financial Services\nIndustry codes: SIC 67, 672, NAICS 52, 523\nCompany type: Privately Held\nFounded: 2016\nSocial profiles: www.facebook.com/timeneon, www.twitter.com/timeneon, www.crunchbase.com/organization/banco-neon, www.instagram.com/timeneon, www.youtube.com/channel/uch0hogvkgu8wx5i6lwudpeg [...] - Series E 2024-09-03 36.82M USD\n- Venture Round 2023-12-01 63.52M USD\n- Debt Financing 2023-01-01 65.18M USD\n- Series D 2022-02-14 306.78M USD\n- Series C 2020-09-02 300.00M USD\n- Series B 2019-11-18 94.83M USD\n- Series A 2018-05-02 22.00M USD\n- Seed Round 2018-01-01\n- Seed Round 2015-12-01 3.50M USD\n- Pre Seed Round 2014-12-01",
+    "score": 0.26808262
+   },
+   {
+    "url": "https://www.prisma.io/blog/prisma-compute-postgres-same-region-networking",
+    "title": "How Prisma Compute reaches Prisma Postgres (2026)",
+    "content": "PlatformSeptember 30, 2026·Updated November 9, 2026\n\n## App hosting platforms with managed Postgres compared (2026): Prisma Compute, Railway, Render, Fly.io, Supabase, Neon and Vercel\n\nPrisma Compute, Railway, Render, Fly.io, Supabase, Neon and Vercel compared for an app next to managed Postgres: previews, idle cost, pooling, backups and prices.\n\nGregory Boch\n\nGregory BochHow We Moved Prisma's Control Plane to Prisma Postgres Without Downtime\n\nPrisma PostgresOctober 26, 2026 [...] Gregory Boch\n\nGregory Boch\n\nGregory Boch is a product leader at Prisma focused on DevTools, agentic workflows, activation, and user research. With a background in engineering, startup founding, and computer science research, he writes from hands-on experience building developer products and turning technical decisions into better user experiences.\n\n## Keep reading\n\nApp hosting platforms with managed Postgres compared (2026): Prisma Compute, Railway, Render, Fly.io, Supabase, Neon and Vercel",
+    "score": 0.26788688,
+    "publishedAt": "2026-11-10"
+   },
+   {
+    "url": "https://supabase.com/docs/guides/database/connecting-to-postgres",
+    "title": "Connect to your database | Supabase Docs",
+    "content": "```\n\nGet this string from the Supabase Dashboard by clicking Connect and choosing Transaction pooler.\n\n### Dedicated pooler # [...] ### Transaction mode limitations#\n\nTransaction mode returns your connection to the pool after each transaction, so anything that depends on session state doesn't survive between transactions. Four things are affected.\n\nPrepared statements aren't supported by the shared pooler, so turn them off. The dedicated pooler supports them. Each driver does this differently: [...] 2\n\n3\n\nexport const sql = postgres(process.env.DATABASE_URL, {\n\n4\n\nmax: 1,\n\n5\n\nprepare: false,\n\n6\n\nssl: 'require',\n\n7\n\n})\n\n```\n\nThe rest of this section explains each setting, and what changes for a driver other than Postgres.js.\n\n### Application-side pool size#",
+    "score": 0.100869976,
+    "publishedAt": "2026-11-05"
+   }
+  ]
+ }
+}

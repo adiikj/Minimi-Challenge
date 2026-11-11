@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"railway pricing hobby plan free tier\",\"general\",\"\",[\"railway.com\"]]",
+ "query": {
+  "q": "Railway pricing Hobby plan free tier",
+  "domains": [
+   "railway.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.saaspricepulse.com/tools/railway",
+    "title": "Railway Free Tier 2026: $5 Credit, No Credit Card",
+    "content": "Railway's pricing model is refreshingly transparent: usage-based with included credits. The Free tier gives $5 in credits with a 30-day trial, Hobby includes $5/month credits, and Pro includes $20/month. You only pay for what you use—memory, CPU, storage, and egress. [...] Pro tip: If you want predictable spend, treat Railway as a $5/mo baseline for a small app. Add one region/service at a time, then validate costs in the usage dashboard before scaling (especially databases and always-on services).\n\nRailway pricing page showing Free, Hobby, Pro, and Enterprise plans\n\nRailway pricing tiers: Free trial, Hobby $5/mo, Pro $20/mo, Enterprise custom\n\n## Pros & Cons\n\n### Pros [...] \\\\Important: Railway requires a credit card for the free trial\\\\ (since August 2023). This is a common question — yes, you need to provide payment info even for the $5 trial. Railway does not have a permanent free tier; after 30 days, you must upgrade to Hobby ($5/mo) or Pro ($20/mo). For the full pricing evolution, see our Railway Pricing History article covering the transition from free tier to credit-based model.\n\n### Key Features That Affect Pricing",
+    "score": 0.8863518,
+    "publishedAt": "2026-03-16"
+   },
+   {
+    "url": "https://docs.railway.com/pricing/plans",
+    "title": "Pricing Plans | Railway Docs",
+    "content": "Each Railway account needs an active subscription. The base subscription fee allows you to use the Railway platform and features included in the tier of your subscription. The subscription fee goes towards your usage-costs on the platform.\n\n| Plan | Price |\n --- |\n| Free | $0 / month |\n| Hobby | $5 / month |\n| Pro | $20 / month |\n| Enterprise | Custom |\n\nRead more about Railway's plans at railway.com/pricing. [...] | Plan | Days |\n --- |\n| Free or Trial plan | 30 days after expiry |\n| Hobby plan | 60 days after cancellation |\n| Pro plan | 90 days after cancellation |\n\n### Is the hobby plan free?\n\nNo. The Hobby Plan is $5 a month, and it includes a resource usage credit of $5. Even if you do not use the $5 in usage (CPU, Memory, egress), you always pay the $5 subscription fee.\n\n### Can I get the hobby plan subscription fee waived? [...] ## Plans\n\nRailway offers four plans in addition to a Trial:\n\n|  |  |\n --- |\n| Free | For running small apps with $1 of free credit per month |\n| Hobby | For indie hackers and developers to build and deploy personal projects |\n| Pro | For professional developers and their teams shipping to production |\n| Enterprise | For teams building and deploying production applications with the need for enterprise features related to compliance, SLAs, and account management |\n\n### Subscription pricing",
+    "score": 0.8559598,
+    "publishedAt": "2024-05-16"
+   },
+   {
+    "url": "https://station.railway.com/questions/projects-limits-797a0c14",
+    "title": "Projects limits - Railway Central Station",
+    "content": "10 months ago\n\nHey, please checkout the the plan comparison table on Railway's pricing page, which includes the limits of each plan. For projects specifically, the limits are 1 for the free plan (5 during the trial), 50 on the hobby plan, 100 on the pro plan and unlimited for enterprise.\n\nAttachments\n\nimage.png\n\nweilies\n\nHOBBY\n\n10 months ago\n\ni m new to RW, for free tier, my dashboard showing as below.\n\n>21 days or $3.92 [...] 10 months ago\n\nHey, please checkout the the plan comparison table on Railway's pricing page, which includes the limits of each plan. For projects specifically, the limits are 1 for the free plan (5 during the trial), 50 on the hobby plan, 100 on the pro plan and unlimited for enterprise.\n\nAttachments\n\nimage.png\n\n4Replies\n\ndomehane\n\nFREE\n\n10 months ago\n\nsorry, i didn’t understand you correctly. yes, as uxuz mentioned, the limits of each plan are here: \n\nuxuz\n\nHOBBY\n\n10 months ago [...] Hey, there is a free plan available after the trail has ended. The free plan includes $1 of usage every month, once your trial has ended, you can head over to  and downgrade to the free plan. If you choose to go with a paid plan, such as the hobby plan with a minimum charge of $5, then you will also have the ability to have set a hard limit at , which stops/shuts down all of your services if your usage exceeds your chosen hard limit (min. $10). You can also remove the deployments of your own",
+    "score": 0.84027237,
+    "publishedAt": "2025-12-18"
+   },
+   {
+    "url": "https://northflank.com/blog/railway-vs-render",
+    "title": "Railway vs Render: which platform fits your workload in 2026? | Blog — Northflank",
+    "content": "| Feature | Railway | Render |\n --- \n| Free tier | Free plan with 30-day trial ($5 credits), then $1/month with limited resources | Hobby plan at $0/month + compute |\n| Paid plans | Hobby: $5/month minimum; Pro: $20/month minimum | Pro: $25/month + compute; Scale: $499/month + compute |\n| Billing model | Usage-based, billed by the second; monthly minimum per plan | Plan fee plus compute consumption | [...] Railway provides a free plan with a 30-day trial period that includes $5 in usage credits. After the trial, the free plan continues at $1/month with limited resources (up to 1 vCPU and 0.5 GB RAM per service). The Hobby paid plan starts at $5/month minimum usage and includes $5 in monthly credits.\n\n### Does Render charge per user? [...] Railway uses usage-based billing billed by the second, with monthly minimum spend tiers. It suits teams that want flexible, consumption-based pricing and fast Git-based deployments.\n Render uses a tiered plan model (Hobby at $0 + compute, Pro at $25/month + compute). It provides background workers and cron jobs as first-class service types. Render has removed per-seat fees as of 2026.",
+    "score": 0.8091708,
+    "publishedAt": "2026-06-01"
+   },
+   {
+    "url": "https://temps.sh/blog/railway-pricing-2026",
+    "title": "Railway Pricing 2026: What It Actually Costs | Temps",
+    "content": "Short answer: Railway (railway.com), the usage-billed app hosting platform, has a permanent Free plan at $0/month with $1 of monthly usage credit, and paid plans at $5/month on Hobby or $20/month per workspace (unlimited seats, not per seat) on Pro — and those subscription figures are credits rather than allowances, so the price is a floor, not a cap. Usage is metered per second at $20 per vCPU/month, $10 per GB of RAM/month, $0.05 per GB of egress and $0.15 per GB/month of volume storage. Once [...] TempsTemps\n\n Docs\n Blog\n Roadmap\n Pricing\n Premium\n Security\n Contact\n\nStar—Get started\n\n Platform pricing\n\n# Railway Pricing 2026: What It Actually Costs\n\nRailway has a free plan at $1/mo credit, then $5/mo Hobby or $20/mo per workspace Pro — usage credits, not caps. Rates: $20/vCPU/mo, $10/GB RAM/mo, per-second.\n\nDavid Viejo\n\nDavid Viejo · Updated · Published [...] Yes, in a limited way. Railway has a permanent Free plan at $0/month providing $1 of usage credit per month, which does not roll over, on a single replica capped at 0.5 GB of RAM and 1 vCPU. New accounts start on a Trial with a one-time $5 grant, and that Trial reverts to the Free plan once 30 days pass or the $5 is spent. Hobby at $5/month is the practical floor for anything beyond a very small app.\n\n### Is Railway's $5 plan a cap on what I can spend?",
+    "score": 0.7771143,
+    "publishedAt": "2026-08-07"
+   }
+  ]
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"neon pricing free tier compute hours storage\",\"general\",\"\",[\"neon.com\"]]",
+ "query": {
+  "q": "Neon pricing free tier compute hours storage",
+  "domains": [
+   "neon.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.srvrlss.io/provider/neon",
+    "title": "Neon Review 2026 - Features, Pricing & Alternatives | srvrlss",
+    "content": "Neon is usage-based. There is a permanent free tier (0.5 GB storage and 100 compute-hours per project per month), and the Launch and Scale plans have no monthly minimum. Compute is billed per CU-hour (a CU is roughly 1 vCPU + 4 GB RAM): $0.106/CU-hour on Launch and $0.222/CU-hour on Scale. Storage is billed separately at $0.35/GB-month. The gotcha is that compute is only free while scaled to zero — an always-on database runs the compute meter around the clock. After the Databricks acquisition, [...] Neon Free gives you 0.5 GB of storage and 100 compute-hours per project per month, across up to 100 projects with 10 branches each. The limits that matter are storage size, the monthly compute-hour cap, autoscaling capped at 2 CU, and only a 6-hour point-in-time restore window. [...] Neon starts free, and the Launch and Scale plans have no monthly minimum — you pay only for usage. The part people miss is that there are two meters: compute at $0.106/CU-hour on Launch ($0.222 on Scale) and storage at $0.35/GB-month. A small app that scales to zero is nearly free; an always-on database runs the compute meter 24/7.",
+    "score": 0.8578872,
+    "publishedAt": "2026-06-18"
+   },
+   {
+    "url": "https://neon.com/faqs/free-plan-limits-and-quotas",
+    "title": "What are the limits and quotas for Neon's Free plan? - Neon FAQs",
+    "content": "The Neon Free plan costs $0/month and includes 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, 1 GB of Postgres storage per project (up to 20 GB total across all projects), and 5 GB of public network transfer per project per month. Computes scale to zero after 5 minutes of inactivity and can scale up to 2 CU (≈8 GB RAM) when active. See the Plans page for the full table.\n\n## What's included [...] | Resource | Free plan allowance |\n --- |\n| Projects | 100 |\n| Branches | 10 per project |\n| Compute | 100 CU-hours per project per month |\n| Autoscaling | Up to 2 CU (≈8 GB RAM) |\n| Scale to zero | After 5 min inactivity, cannot be disabled |\n| Postgres storage | 1 GB per project, 20 GB across all projects |\n| Public network transfer | 5 GB per project per month |\n| Instant restore history | 6 hours, capped at 1 GB of change history |\n| Manual snapshots | 1 | [...] None of these limits delete your data. Compute resumes when the next monthly window opens or you move to a paid plan.\n\n#### Suspended computes and storage\n\nA suspended compute uses no CU-hours, but your data stays in storage. On the Free plan, it counts against the 1 GB cap. On paid plans, storage bills at $0.35/GB-month whether the compute is running or not.\n\n## When to consider the Launch plan",
+    "score": 0.84038997,
+    "publishedAt": "2026-06-07"
+   },
+   {
+    "url": "https://neon.com/docs/introduction/plans",
+    "title": "Neon plans - Neon Docs",
+    "content": "The Free plan costs $0/month and includes 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU (≈8 GB RAM), 1 GB of Postgres storage per project (up to 20 GB total across all projects), and 5 GB of public network transfer per project per month. It also includes a 6-hour instant restore history (capped at 1 GB-month of changes), 1 manual snapshot, up to 60,000 Managed Better Auth MAU, 1 day of monitoring history, and community support. [...] Free: Prototypes, side projects, and small teams. Includes 100 projects, 100 CU-hours/project, 1 GB Postgres storage per project (up to 20 GB total across all projects), and 5 GB of egress per project. Upgrade if you need more resources or features.\n Launch: Startups and growing teams needing more resources, features, and flexibility. Pay only for what you use. [...] Compute usage is measured in CU-hours:  \n CU-hours = compute size (in CU) × hours running  \n Examples:  \n • 0.25 CU for 4 hours = 1 CU-hour  \n • 2 CU for 3 hours = 6 CU-hours  \n Your plan's compute price per CU-hour depends on whether you are on Launch or Scale. On the Free plan, you have 100 CU-hours/month included.\n\n### How is storage usage billed in Neon?",
+    "score": 0.8318272,
+    "publishedAt": "2025-05-30"
+   },
+   {
+    "url": "https://www.activepieces.com/blog/neon-pricing-2026-plans-free-tier-limits-and-costs",
+    "title": "Neon Pricing 2026: Plans, Free Tier Limits, and Costs",
+    "content": "When a database is suspended, it uses no compute hours, so Neon doesn't charge for compute while it's idle: compute is metered in hours.\n\nStorage is metered separately and keeps accruing while the compute sleeps. A quiet database therefore costs less than a busy one, but never nothing on a paid plan.\n\nThe cost of idling is the cold start on the first query after a suspend.\n\n### Can I downgrade from paid to Free? [...] You are billed on the compute unit (CU), a slice of CPU and memory. Neon multiplies the CUs your database uses by the hours it's awake, which gives CU-hours. Neon meters storage separately, and branches add to it.\n\nOnce a database scales to zero when idle, it stops accruing CU-hours, so an always-on production database costs far more than a dev database with the same schema.\n\nBefore usage charges begin, each plan includes an allowance of CU-hours and storage. [...] | Reader situation | Plan | Monthly cost | Catch that pushes up a tier |\n ---  --- |\n| Hobby project | Free | No charge | Compute and storage allowances are capped, so a project that outgrows them stalls instead of scaling |\n| Small production team | Entry paid plan | Base fee plus metered usage | Steady compute hours or growing storage that exceed the included allowance |",
+    "score": 0.8089744,
+    "publishedAt": "2026-11-02"
+   },
+   {
+    "url": "https://neon.com/blog/new-usage-based-pricing",
+    "title": "Neon’s New Pricing, Explained: Usage-Based, No Minimum - Neon",
+    "content": "For Free plan users: If you’re reading this, you’re already on the new Free plan (or will be within a few hours). The new storage limits (0.5 GB per project) will apply right away. The new compute limit of 50 CU-hours per project also applies, but we’ve reset your CU-hour counter today, giving you a fresh 50 CU-hours to use for the rest of the month. This migration happens automatically on our side.",
+    "score": 0.7972413,
+    "publishedAt": "2025-08-14"
+   }
+  ]
+ }
+}

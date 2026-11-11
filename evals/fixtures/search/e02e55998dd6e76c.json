@@ -1,0 +1,49 @@
+{
+ "key": "[\"tavily\",\"fast\",\"freshsales pricing\",\"general\",\"\",[\"freshworks.com\"]]",
+ "query": {
+  "q": "Freshsales pricing",
+  "domains": [
+   "freshworks.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://capsulecrm.com/blog/freshsales-crm-pricing",
+    "title": "Freshworks CRM Pricing – is it worth the cost?",
+    "content": "## FAQs\n\nFreshsales CRM pricing starts at $0 for its free plan and goes up to $69 per user/month (billed annually) for the Enterprise Plan.\n\nFreshsales CRM’s lower tiers lack advanced features like custom workflows and analytics, while higher-tier plans and add-ons can be expensive.\n\nFreshsales CRM is ideal for small-to-medium sales and marketing teams looking for AI-driven insights and sales pipeline management tools. [...] Freshsales CRM (part of Freshworks) offers a range of plans designed to help businesses streamline their sales processes. With features like AI-driven insights, contact management, and automation, Freshsales is a strong contender for sales-focused teams. However, its pricing structure, especially for larger teams, makes it essential to evaluate its value compared to alternatives like Capsule CRM.\n\n### Freshsales pricing plans\n\n Growth Plan – $11/user/month (billed monthly) [...] ## Why Capsule CRM is a strong alternative\n\nCapsule CRM delivers everything Freshsales CRM offers – and more – with greater affordability and user-friendliness. Starting at just $18/month and including a free plan, Capsule is an excellent choice.",
+    "score": 0.90869105,
+    "publishedAt": "2025-12-22"
+   },
+   {
+    "url": "https://support.freshsales.io/support/solutions/articles/50000003050-freshsales-pricing-and-features-list",
+    "title": "Freshsales Pricing and Features List : Freshsalessuite Support",
+    "content": "| Plan | BLOSSOM | GARDEN | ESTATE | FOREST |\n| Description | Perfect for small teams | Ideal for growing teams | Best value for large teams | Made for Enterprises |\n| Annual Pricing | $12 user/month | $25 user/month | $49 user/month | $79 user/month |\n| Monthly Pricing | $19 /user | $35 /user | $65 /user | Annual commitment only | [...] | Add-on | Workflow as an add-on (10 workflow) | $10/month | [...] | API Access | API Access | API Access |\n| 250 Bulk Emails/user/day | 1000 Bulk Emails/user/day | 5000 Bulk Emails/user/day |\n| 5 Sales Sequences/user | 10 Sales Sequences/user | 25 Sales Sequences/user |\n| 10 Workflow Automations | 25 Workflow Automations | 100 Workflow Automations |\n| 10 Teams | 25 Teams | 50 Teams |\n| Territories and Lead Assignment | Territories and Lead Assignment | Territories and Lead Assignment |\n| Smart Matches | Smart Matches | Smart Matches |",
+    "score": 0.9018604,
+    "publishedAt": "2021-06-17"
+   },
+   {
+    "url": "https://www.emailtooltester.com/en/crm/freshsales-review/pricing",
+    "title": "Freshsales Pricing 2026 | Is it Really Worth it?",
+    "content": "Read on to find out what features each plan includes and if it’s worth paying that bit extra for the Pro plan.\n\n## How Much Does Freshsales Cost?\n\nGrowth is the most affordable of the three plans, with prices starting at $11/user/month. The Pro plan starts at $47/month per user, and the Enterprise tier comes in at $71.\n\nDiscounts are offered if you pay annually.\n\nThere is also a Forever Free plan available with limited features and no more than 3 users. [...] ## What’s missing?\n\nFreshsales is predominantly a sales automation software, which is why you won’t find much in the way of email marketing features. Freshworks CRM does actually offer its own marketing services under its product ‘Freshmarketer’, but with prices starting at $15/month, you’d need a significant budget if you were to sign up for both this and Freshsales.\n\nBut wait, there’s actually a third product called Freshsales Suite that combines the top sales and marketing features in one. [...] | FREE | GROWTH | PRO | ENTERPRISE |\n ---  --- |\n| Price | $0 | $11/user/month | $47/user/month | $71/user/month |\n| Marketing contacts | 1,000 | 1,000 | 1,000 | 1,000 |\n| Contact, deal & account management | Yes | Yes | Yes | Yes |\n| Built-in chat, email, & phone | Yes | Yes | Yes | Yes |\n| 24×5 support | Yes | Yes | Yes | Yes |\n| Mobile app | Yes | Yes | Yes | Yes |\n| AI-powered predictive contact scoring | Yes | Yes | Yes |\n| Workflows | Yes | Yes | Yes |",
+    "score": 0.8757978,
+    "publishedAt": "2026-06-11"
+   },
+   {
+    "url": "https://www.freshworks.com/compare/close-crm-alternative",
+    "title": "Freshsales vs Close: The Best Close Alternative",
+    "content": "| Criteria | Freshsales | Close |\n --- \n| Pricing | Starts at $9/user/month | Starts at $49/user/month |\n| AI capabilities | Start at $39/user/month | Only provides a plugin for ChatGPT & few free AI-enhanced tools |\n| Customer 360 |\n| Multiple pipelines |\n| Built-in chat |\n| Built-in phone |\n| Contact & deal teams |\n| Account & territory hierarchy |\n| CPQ |\n| Contact scoring |\n| Content generation | Cold Email Generator (Free tool, not built-in) |\n| Curated reports | [...] Out-of-the-box automation to boost seller productivity and revenue growth.\n\n## 5 reasons Freshsales CRM wins over Close\n\n### 5x more affordable and feature-packed\n\nWhy Freshsales wins\n\nOur pricing starts at just $9, an affordable price band for startups and small businesses. Even the feature-packed Enterprise plan is more affordable at $59.\n\nFreshsales gives you access to advanced automation and AI capabilities at a fraction of the cost.\n\nWhy Close might not be the right choice for you [...] Moving from Close to Freshsales CRM is quite fast and easy. You can seamlessly import your data using the CSV Import option and get started.\n\n### Which CRM is more economical: Freshsales or Close?\n\nFreshsales is 5x more affordable and starts at just $9 while getting started on Close costs a hefty $49. At a fraction of the cost of Close, you get access to advanced automations and AI capabilities on Freshsales.\n\n### How does Freshsales differentiate itself from Close?",
+    "score": 0.8719229
+   },
+   {
+    "url": "https://www.freshworks.com/company/partners/newsletter/in-the-loop-41",
+    "title": "In the Loop - March 2024",
+    "content": "Growth plan now starts at $9/user/month, billed annually.\n Pro plan list price is increasing only for INR; the updated price is ₹3,239/user/month, billed annually.\n Enterprise plan now starts at $59/user/month, billed annually.\n We offer 500 Marketing Contacts for all paid plans for Freshsales Suite.\n\nNote: Changes are also applicable for the Freshsales add-on and Freshdesk Omni.\n\n## Interstellar 101 for Partners - Recap\n\nRevisit the Interstellar enablement session here. [...] We are LIVE with the new pricing structure for Freshsales and Freshsales Suite, for all new sign-ups starting 04 March 2024. Our revamped pricing plans and features aim to offer more flexibility for our customers to choose the plan that best suits their needs. This strategic move positions our CRM in a stronger stance, delivering exceptional value, setting us apart from the competition, and presenting a clear upgrade path as they grow.\n\nHere’s a snapshot of what’s changed:",
+    "score": 0.79542017,
+    "publishedAt": "2024-03-15"
+   }
+  ]
+ }
+}

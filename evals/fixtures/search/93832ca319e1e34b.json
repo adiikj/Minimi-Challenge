@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"hubspot sales hub pricing\",\"general\",\"\",[\"hubspot.com\"]]",
+ "query": {
+  "q": "HubSpot Sales Hub pricing",
+  "domains": [
+   "hubspot.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://blog.hubspot.com/sales/hubspot-sales-hub-pricing",
+    "title": "HubSpot’s Sales Hub pricing guide — essential features for every rep",
+    "content": "| Sales Hub Professional | $90/seat (annual) or $100/seat (monthly) | Per user | 10 deal tags per account with rules for specific pipelines | Up to 300 fully customizable workflows | $1,500 |\n| Sales Hub Enterprise | $150/seat | Per user | 10 deal tags per account with rules for specific pipelines | Up to 1,000 fully customizable workflows | $3,500 | [...] Sales Hub Professional: $1,500 one-time onboarding fee.\n Sales Hub Enterprise: $3,500 one-time onboarding fee.\n Additional costs may come from adding more seats, buying extra contact capacity (if using Marketing Hub), or using multiple Hubs beyond Sales (e.g., Marketing, Service, CMS) with their own pricing.\n If you require complex onboarding, there may be further consultancy or setup costs with external HubSpot implementation partners. [...] A one-time onboarding fee of $1,500 for Sales Hub Professional and $3,500 for Sales Hub Enterprise.\n More payment if you add more users (“seats”) beyond the ones included.\n Extra charges depending on use: for example, if you include Marketing Hub, additional marketing contacts beyond the included limits may cost extra.\n Implementation or total cost of ownership may also include ongoing costs beyond just subscription — especially for larger teams (e.g., core seats for non-sales users).",
+    "score": 0.8694931,
+    "publishedAt": "2026-09-09"
+   },
+   {
+    "url": "https://cargas.com/software/hubspot/pricing",
+    "title": "2026 HubSpot Pricing Guide | Cargas",
+    "content": "Pricing for Sales Hub starts at $20 per month for the Starter tier, which includes one core seat, with additional core seats available for $20 each. The Professional tier starts at $100 per month and includes one sales seat, with extra sales seats costing $100 each and core seats available for $50. The Enterprise tier starts at $150 per month and includes one sales seat, with additional sales seats priced at $150 each and core seats at $75. [...] | Sales Hub Starter | Sales Hub Professional | Sales Hub Enterprise |\n --- \n| Team Email & Reply Tracking | ✅ | ✅ | ✅ |\n| Conversation Routing | ✅ | ✅ | ✅ |\n| Customizable Quotes | ✅ | ✅ | ✅ |\n| Shared Inbox | 1 Inbox | 100 Inboxes | 200 Inboxes |\n| Calling | 500 Minutes | 3,000 Minutes | 12,000 Minutes |\n| Meeting Scheduling | 1,000 Meetings | 1,000 Meetings | 1,000 Meetings |\n| Deal Pipeline | 2 Per Account | 15 Per Account | 30 Per Account | [...] For example, implementing Sales Hub using out-of-the-box features with minimal configuration might cost $12,000. A more complex implementation of multiple hubs or tailoring the software to your processes could cost as much as $60,000. \n\nBe sure to consult any potential partners about their costs before committing to implementation.\n\n## HubSpot Pricing Calculator\n\n### Access our HubSpot pricing calculator and get a price estimate tailored to your business. ►\n\nHubSpot Pricing Calculator Image",
+    "score": 0.86350673,
+    "publishedAt": "2025-03-11"
+   },
+   {
+    "url": "https://www.tropicapp.io/glossary/hubspot-price",
+    "title": "How Much Does HubSpot Cost? Pricing, Tiers, Discounts",
+    "content": "HubSpot Sales Hub Professional costs $90/user/month with 5 core seats included. Sales Hub Enterprise costs $150/user/month, also with 5 core seats included. These prices are negotiable, with most customers achieving 30-35% discounts.\n\n### Can I use multiple HubSpot Hubs together? [...] HubSpot cost per user depends on the Hub and tier. Sales Hub Professional costs $90/user/month, while Sales Hub Enterprise costs $150/user/month. Other Hubs use a different model with core seats included in the base price, then additional seats cost $45/month (Professional) or $75/month (Enterprise).\n\n### Does HubSpot offer annual payment discounts? [...] Professional: $800/month (includes 3 core seats + 2,000 contacts), additional seats $45/month\n Enterprise: $3,600/month (includes 5 core seats + 10,000 contacts), additional seats $75/month\n\n#### Sales Hub Pricing:\n\n Professional: $90/user/month (includes 5 core seats)\n Enterprise: $150/user/month (includes 5 core seats)\n\n#### Content Hub Pricing:",
+    "score": 0.8554893,
+    "publishedAt": "2026-01-09"
+   },
+   {
+    "url": "https://www.emailtooltester.com/en/crm/hubspot-review/pricing",
+    "title": "Hubspot Pricing 2026: How to Avoid Paying Too Much",
+    "content": "| Sales Hub Free trial | $0 a month.  A good selection of tools with limited use. For example, email tracking is limited to 200 emails. You can call users for up to 15 mins, etc.  Up to 5 users free of charge | $20/month/seat  Adds calling time (8 hours), unlimited email tracking, email sequences, and conversation bots.  1 user included. | $100/month/seat  +  $1500 onboarding fee  Adds phone support, 300 sales automation workflows, Salesforce integration, and more. 10 electronic [...] The pricing for each one of these tools is where things get a little complicated. Each product has its own plans (Starter, Professional, and Enterprise), which allow you to pay based on the features you need. While the Starter plan can be very cheap (starting at $20/month), the Professional and Enterprise plans will push you into a much higher spending bracket (ranging from $90-$3,600/month!).\n\nPricing plans for Hubspot's Sales Hub range from affordable to very expensive [...] 1. Marketing Hub - including email marketing, forms, automations, and a live chat widget\n2. Sales Hub - including a CRM, deal pipeline, meeting scheduler, and sales automations\n3. Service Hub - including live chat, ticket management, and, on higher plans, a knowledge base and helpdesk\n4. Operations Hub - including data management tools\n5. Content Hub - including a website builder (CMS) to create websites, blogs, and landing pages",
+    "score": 0.8523219,
+    "publishedAt": "2026-03-25"
+   },
+   {
+    "url": "https://www.featurebase.app/blog/hubspot-pricing",
+    "title": "HubSpot Pricing 2026: Is It Worth It? – Featurebase",
+    "content": "Sales Hub Starter\n\nThe Starter plan has a catalog starting price of $20 per month per Core Seat. Promotional and annual-billing offers may differ. Features included are:\n\n Automate personalized outreach\n Accept payments through the built-in integration\n Multiple deal pipelines and simple automation\n\n### Sales Hub Professional [...] HubSpot also offers a promotion for new customers purchasing Sales Hub and Revenue Hub together: $57 per Revenue Seat/month for Professional or $98 for Enterprise, billed annually. These discounted prices cover Revenue Hub seats only, with Sales Hub priced separately.\n\n## Customer platform pricing\n\nThe Customer platform gives you all the necessary tools to communicate with your customers. [...] The Professional plan starts at $90 per month per Sales Seat when billed annually, or $100 per month per Sales Seat when billed monthly with an annual commitment. A $1,500 one-time onboarding fee also applies. Features included are:\n\n All Starter features, plus forecasting, sequences, and conversation intelligence\n Deeper reporting, teams, and process workflows suitable for business use\n\n### Sales Hub Enterprise",
+    "score": 0.7977145,
+    "publishedAt": "2026-10-27"
+   }
+  ]
+ }
+}

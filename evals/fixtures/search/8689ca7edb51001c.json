@@ -1,0 +1,50 @@
+{
+ "key": "[\"tavily\",\"fast\",\"pipedrive advanced plan pricing\",\"general\",\"\",[\"pipedrive.com\"]]",
+ "query": {
+  "q": "Pipedrive Advanced plan pricing",
+  "domains": [
+   "pipedrive.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.method.me/blog/how-much-does-pipedrive-cost",
+    "title": "How much does Pipedrive cost in 2026? — Method",
+    "content": "No credit card is required, and the trial provides you with the full advanced plan. This way, you can test Pipedrive and its best features before making a decision.\n\n## What you get in each plan\n\nFrom basic deal tracking in “Lite” to advanced security and testing options in “Ultimate,” the tiers are designed to match different stages of your sales process. Here’s a closer look at what you get in each plan.\n\n### Lite plan\n\n💲 Cost: $14/seat/month (annual), $24/seat/month (monthly) [...] Pipedrive’s tiered plans are fairly easy to follow. Each tier adds more tools and flexibility, so you can choose what matches your team’s size and sales process.\n\nHere are Pipedrive’s four main pricing tiers:\n\n|  |  |  |\n --- \n| Plan | Annual billing | Monthly billing |\n| Lite | $14/seat/month | $24/seat/month |\n| Growth | $39/seat/month | $49/seat/month |\n| Premium | $49/seat/month | $79/seat/month |\n| Ultimate | $79/seat/month | $99/seat/month | [...] Manage your deals with basic pipeline management tools.\n Add important details relevant to your operations with custom fields.\n Sync your emails directly into the platform.\n Get nudges and insights from the AI Sales Assistant.\n Connect with over 500 apps and services through integrations.\n Experience personalized onboarding to get the most out of Pipedrive from the start.\n\n### Growth plan\n\n💲 Cost: $39/seat/month (annual), $49/seat/month (monthly)",
+    "score": 0.6583077,
+    "publishedAt": "2025-09-10"
+   },
+   {
+    "url": "https://www.pipedrive.com/en/blog/pipedrive-vs-pipeline",
+    "title": "Ultimate Pipedrive vs. Pipeline CRM Breakdown | Pipedrive",
+    "content": "|  |  |\n --- |\n| Plan (per user/month) | Key CRM features |\n| Lite – From $19 | Custom pipelines, contact and deal management, sales activity tracking, 500+ integrations, mobile app and 2FA enforcement. |\n| Growth – From $34 | Email sync, workflow automation, group emailing, custom templates, Contacts Timeline and forecast view. |\n| Premium – From $64 | Advanced reporting, revenue forecasts, customizable dashboards, team goals, eSignatures, LeadBooster and team inbox. | [...] |  |  |\n --- |\n| Plan (per user/month) | Key CRM features |\n| Start – $25 | Contact and deal management, calendar sync, task tracking, basic reporting and integrations. Limited to one sales pipeline and 250 deals. |\n| Develop – $33 | Email sync, sales automation, AI email writer and advanced reporting. Limited to two sales pipelines and 2,500 deals per account. |",
+    "score": 0.6564381,
+    "publishedAt": "2026-09-23"
+   },
+   {
+    "url": "https://support.pipedrive.com/en/article/new-pipedrive-plans",
+    "title": "What’s new in Pipedrive plans? - Knowledge Base | Pipedrive",
+    "content": "### Higher limits\n\n| Feature | Advanced | Growth |\n --- \n| Leads + Deals (per user) | 4,000 | 5,000 |\n| Reports | 30 | 50 |\n| If/else steps (per automation) | 1 | 3 |\n\nNote: If you’re currently above the Advanced plan’s limits, switching allows you to keep your data without disruption.\n\n### How to switch from Advanced to Growth?\n\nGo to Billing > Manage subscription in your account settings.\n\nNote: Switching to Growth will update your subscription to Pipedrive’s latest list pricing. [...] Note: If you’re above Essential’s limits, moving to Lite means you can keep your data without interruption.\n\n### How to switch from Essential to Lite?\n\nGo to Billing > Manage subscription in your account settings.\n\nNote: Switching to Lite will update your subscription to Pipedrive’s latest list pricing.\n\n## From Advanced to Growth\n\nIf you're on the Advanced plan, Growth adds tools for better forecasting, automation and lead tracking while keeping your existing workflows intact. [...] Note: If you’re over any Professional plan limits, moving to Premium allows you to keep working without removing data.\n\n### How to switch from Professional to Premium?\n\nGo to Billing > Manage subscription in your account settings.\n\nNote: The Premium plan may have a higher monthly cost than Professional. For accurate pricing, visit our pricing page.\n\n## From Power to Premium",
+    "score": 0.63148063,
+    "publishedAt": "2026-09-02"
+   },
+   {
+    "url": "https://capsulecrm.com/blog/pipedrive-crm-pricing",
+    "title": "Pipedrive CRM pricing – Is it worth the cost?",
+    "content": "### Pipedrive CRM pricing plans\n\n#### Lite Plan – $24/user/month\n\n Lead, calendar, and pipeline management in one workspace\n Sales Assistant with AI-generated reports\n Real-time sales forecasts and insights\n Access to 500+ integrations\n Entry-level plan with limited automation features\n\n## Growth Plan – $49/user/month\n\n Full email sync with tracking\n Automations and nurturing sequences\n Meeting scheduler and contacts timeline\n Includes all Lite plan features\n\n#### Premium Plan – $79/user/month [...] ## FAQs\n\nPipedrive CRM pricing starts at $24 per user/month for the Lite Plan and goes up to $99 per user/month for the Ultimate Plan.  \n  \nIn comparison, Capsule CRM offers a free plan and starts paid plans from $21 per user/month for the Starter Plan and goes up to $75 per user/month for the Ultimate Plan.\n\nNo, Pipedrive does not offer a free plan, but it provides a 14-day free trial. [...] ## Go to section\n\nPipedrive pricing: everything you need to knowGrowth Plan – $49/user/monthFactors to consider when choosing a CRM solutionWhy Capsule CRM is a strong alternativeIs Pipedrive CRM worth it?\n\n## Go to section\n\nPipedrive pricing: everything you need to knowGrowth Plan – $49/user/monthFactors to consider when choosing a CRM solutionWhy Capsule CRM is a strong alternativeIs Pipedrive CRM worth it?",
+    "score": 0.6234915,
+    "publishedAt": "2025-12-23"
+   },
+   {
+    "url": "https://axisconsulting.io/pipedrive-pricing-plans",
+    "title": "Pipedrive Pricing 2026: What You Actually Pay Per User",
+    "content": "| Question | Answer |\n --- |\n| Starting price | $14 per seat monthly (Lite, annual billing) |\n| Free plan | None. 14-day free trial, no credit card required |\n| Entry point for most active sales management teams | Growth, at $39 per seat monthly (annual), for two-way email sync and automation |\n| Plan that adds lead capture, documents and project handoff at no extra add-on cost | Premium, at $59 per seat monthly (annual) | [...] | Governance-focused top tier | Ultimate, at $79 per seat monthly (annual) |\n| Retired plan names still appearing on some invoices | Essential, Advanced, Professional, Power and Enterprise, replaced in 2025 |\n| Verification date | August 3, 2026, against pipedrive.com/en/pricing and Pipedrive’s knowledge base | [...] Pipedrive replaced its previous five-tier lineup with the current four-plan structure in 2025. The table below maps the retired plan names to their current equivalents, based on matching feature and usage-limit parity in Pipedrive’s own knowledge base.\n\n| Retired plan | Current equivalent |\n --- |\n| Essential | Lite |\n| Advanced | Growth |\n| Professional | Premium |\n| Power | Premium |\n| Enterprise | Ultimate |",
+    "score": 0.603815,
+    "publishedAt": "2025-10-21"
+   }
+  ]
+ }
+}

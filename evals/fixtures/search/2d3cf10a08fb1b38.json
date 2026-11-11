@@ -1,0 +1,49 @@
+{
+ "key": "[\"tavily\",\"fast\",\"neon pricing plans\",\"general\",\"\",[\"neon.com\"]]",
+ "query": {
+  "q": "Neon pricing plans",
+  "domains": [
+   "neon.com"
+  ]
+ },
+ "depth": "fast",
+ "response": {
+  "credits": 1,
+  "results": [
+   {
+    "url": "https://www.jetadmin.io/blog/neon-pricing",
+    "title": "Neon Pricing 2026: Plans, Costs & Limits",
+    "content": "Neon pricing starts with a free plan; paid Launch and Scale plans charge for actual usage with no monthly minimum. Database compute costs $0.106 per CU-hour on Launch and $0.222 on Scale, with storage billed separately. The main budget question is how much compute runs, and for how long—not how many colleagues log in.\n\nPricing checked September 25, 2026. US dollars; taxes excluded from illustrative calculations. Annual rates are monthly equivalents, not monthly invoices. [...] | Plan | Billing | Database allowance or rate | When it fits |\n ---  --- |\n| Free | $0; no annual commitment | 100 CU-hours and 0.5 GB storage per project | Experiments and small workloads within every free limit |\n| Launch | Usage billed monthly; no fixed annual equivalent | $0.106/CU-hour; $0.35/GB-month | Applications that exceed Free without requiring Scale controls | [...] Jet Admin Pro is $20/month on monthly billing, or $192/year ($16/month equivalent); Business is $100/month or $960/year ($80/month equivalent). Business includes granular permissions, SSO, and audit logs. Check Jet Admin’s current plan gates.",
+    "score": 0.84959716,
+    "publishedAt": "2026-09-26"
+   },
+   {
+    "url": "https://help.neontv.co.nz/support/solutions/articles/64000203745-how-much-does-neon-cost-",
+    "title": "How much does Neon cost? : Help Centre",
+    "content": "Logo \n\n|  Help Centre\n\nSolution home  About Neon About Neon\n\n## How much does Neon cost? Print; \"Print this Article\")\n\nNeon's monthly Basic with Ads Plan is $14.99 per month and the monthly Standard Plan is $23.99 per month, which includes a huge selection of TV shows, movies and kids programmes. You also have the option to purchase an Annual Plan at $239.99 per year (a saving of 16% over 12 months compared to our monthly Standard Plan).",
+    "score": 0.82893884
+   },
+   {
+    "url": "https://neon.com/blog/new-usage-based-pricing",
+    "title": "Neon’s New Pricing, Explained: Usage-Based, No Minimum - Neon",
+    "content": "We now offer three plans: Free, Launch, and Scale, with usage-based pricing across the board. This is a summary of how they break down – check out our pricing page for details.\n\n### Free: Perfect for learning, hacking, and shipping early ideas\n\nEverything you need to start building on Neon, completely free – including: [...] Launch is an ideal paid plan for growing projects and early startups that care more about keeping costs low than meeting compliance requirements or production-grade reliability standards.\n\nIt’s fully usage-based with no monthly minimum:\n\n Pay-as-you-go compute at $0.14 per CU-hour.\n Pay-as-you-go storage at $0.35 per GB-month\n 10 branches/project included, then $0.002 per branch-hour\n\nYou also get extras like: [...] Scale is our highest-tier plan, designed for production-grade workloads that require advanced security, availability, and compliance features. Like Launch, Scale is fully usage-based, with all of its additional capabilities included within its $0.26 per CU-hour compute price.\n\nThese features reflect the higher operational demands of running mission-critical systems on Neon, and include:",
+    "score": 0.82768893,
+    "publishedAt": "2025-08-14"
+   },
+   {
+    "url": "https://www.activepieces.com/blog/neon-pricing-2026-plans-free-tier-limits-and-costs",
+    "title": "Neon Pricing 2026: Plans, Free Tier Limits, and Costs",
+    "content": "| Reader situation | Plan | Monthly cost | Catch that pushes up a tier |\n ---  --- |\n| Hobby project | Free | No charge | Compute and storage allowances are capped, so a project that outgrows them stalls instead of scaling |\n| Small production team | Entry paid plan | Base fee plus metered usage | Steady compute hours or growing storage that exceed the included allowance | [...] | Bursty app with preview branches | Entry paid plan, then a higher tier | Base fee plus metered usage, rising with branch count | Each active branch consumes compute and storage, so the bill tracks how many you leave running |\n| Compliance-bound team | A higher paid tier | Higher base fee | Security and admin features sit above the entry plan | [...] $3 a month buys a database for every pull request on Neon, against $20 on PlanetScale and $39 on Supabase, according to a DEV Community comparison, which means Neon's pricing makes per-PR databases the economical choice for any CI/CD pipeline.\n\nBranches share storage with their parent, which is the mechanism keeping the Neon number low.\n\n### Neon next to Supabase, Aurora and PlanetScale",
+    "score": 0.8193158,
+    "publishedAt": "2026-11-02"
+   },
+   {
+    "url": "https://neon.com/pricing",
+    "title": "Pricing — Neon",
+    "content": "Neon now has realtime: Live SQL with full reactivity. Try it in Beta today\n\nDiscord23.3k\n\nLog inSign up\n\n# Neon pricing\n\nGet started for free. Pay per usage as you grow.\n\n## Neon pricing plans\n\n ### Free\n\n  #### $0\n\n  Build and learn free with no time limits and no credit card required.\n\n  Try Neon\n\n  Lakebase Postgres\n\n  + 100 projects\n  + 100 CU-hrs monthly per project\n  + 1 GB of storage per project\n  + Sizes up to 2 CU (8 GB RAM)\n  + Unlimited team members\n\n  Backend [...] AI Gateway is available on Launch and Scale. Pricing matches the model provider's list prices, with no markup, and draws down prepaid credits. Learn how prepaid credits work, or see per-model rates.\n Neon's paid plans don't require a minimum monthly spend or base fee. You're billed purely based on usage. If one month you barely use Neon, your bill might be just a few dollars. [...] Invocations$0.60 per 1M invocations\n  + List prices herePrepaid credits\n  + Free during betaCompute and egress billed as usual\n  + 500 GB per project includedthen $0.10/GB\n  + 3 days\n  + Unlimited\n  + Billing Support\n ### Scale\n\n  Usage-basedGet started",
+    "score": 0.8183016,
+    "publishedAt": "2026-11-03"
+   }
+  ]
+ }
+}
