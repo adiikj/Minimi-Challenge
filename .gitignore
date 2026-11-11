@@ -1,0 +1,33 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# runtime data (SQLite DB, generated secret)
+data/
+
+# deps & builds
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# spike outputs (may contain raw API responses)
+scripts/spike/out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+npm-debug.log*
+
+# eval run outputs (latest.md is kept)
+evals/results/*.json
+
+# private notes
+plan.md
