@@ -1,0 +1,39 @@
+{
+ "query": "Supabase pricing change announcement",
+ "follow_up_questions": null,
+ "answer": null,
+ "images": [],
+ "results": [
+  {
+   "url": "https://shattered.io/supabase-vs-firebase-pricing-features-2026",
+   "title": "Supabase vs Firebase: Pro From $25, 100K Users [2026]",
+   "content": "Supabase log pricing, September 25. Supabase announced usage-based pricing for log ingestion and queries. Existing organizations received a grace period that extends into early 2027, while the treatment of newly created organizations is less certain. The lesson: a platform fee is not the whole bill, and observability data can become a metered line item overnight. [...] Supabase announced a Turso acquisition on October 2, 2026, switched on usage-based pricing for logs on September 25, and put an MCP server in front of AI agents. Google, by contrast, reportedly moved Firestore text search and geospatial search to general availability on October 19. Teams budgeting a backend inside the wider cloud computing stack should price both options with real traffic numbers before committing, because the cheaper platform flips depending on how your app reads data. [...] Turso acquisition, October 2. Supabase announced it is acquiring Turso. The move signals that Supabase wants to cover embedded and edge use cases beyond hosted Postgres. Expect product announcements, and watch for pricing details before you plan around them.",
+   "score": 0.85995835,
+   "published_date": "Sat, 24 Oct 2026 22:46:35 GMT",
+   "raw_content": null,
+   "id": "81dc37-00"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/supabase-announces-150m-in-new-funding-and-turso-acquisition-302896752.html",
+   "title": "Supabase Announces $150M in New Funding and Turso Acquisition",
+   "content": "SAN FRANCISCO, Oct. 2, 2026 /PRNewswire/ -- Supabase, the leader in agentic infrastructure and open source Postgres development platform, today announced $150 million in new funding led by GIC, with Alphabet's independent growth fund CapitalG, IronArc, and SquarePeg also participating. The investment comes just four months after the company's $500 million Series F, as AI coding tools and agents drive another major uptick in Supabase's growth. Supabase also announced it is acquiring Turso, a [...] ### Modal title\n\n## Also from this source\n\nSupabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure\n\n### Supabase Raises $500M at $10.5B to Accelerate Lead in Agentic Infrastructure\n\nSupabase, the open source Postgres development platform, today announced a $500 million Series F at a $10.5 billion post-money valuation. The round...\n\nMore Releases From This Source\n\n## Explore\n\nData Analytics\n\nData Analytics\n\nArtificial Intelligence\n\nArtificial Intelligence\n\nComputer Software [...] Accessibility Statement Skip Navigation\n\n# Supabase Announces $150M in New Funding and Turso Acquisition\n\nSupabase\n\n## News provided by\n\n Supabase \n\nOct 02, 2026, 09:00 ET\n\n## Share this article\n\nShare this article\n\nThe agentic infrastructure leader is adding support for millions of new agents each month as AI accelerates software creation",
+   "score": 0.74363416,
+   "published_date": "Fri, 02 Oct 2026 13:00:00 GMT",
+   "raw_content": null,
+   "id": "ef7914-01"
+  },
+  {
+   "url": "https://tavily.com/knowledge/company/bhw5g0Vh4Q1r",
+   "title": "Supabase",
+   "content": "# Supabase\nID: bhw5g0Vh4Q1r\nWebsite: www.supabase.com\nLegal name: Supabase Inc\nHeadquarters: Global\nLinkedIn: www.linkedin.com/company/supabase · 113,936 followers\nIndustry: IT Services and IT Consulting\nCompany type: Privately Held\nFounded: 2020 [...] - Last round: Series F 2026-06-01 500.00M USD\n- Series F 2026-06-01 500.00M USD\n- Series E 2025-11-03 100.00M USD\n- Series D 2025-04-01 200.00M USD\n- Series C 2024-09-25 80.00M USD\n- Series B 2022-05-10 80.00M USD\n- Series A 2021-09-09 30.00M USD\n- Seed Round 2020-12-15 6.00M USD\n- Seed Round 2020-08-25 125.00K USD\n- Series F [...] www.twitter.com/orlandopedro_/status/1958618806143578336, www.twitter.com/yatsiv_yuriy/status/1979182362480071162, www.twitter.com/dadooos_/status/1947924753618243663, www.twitter.com/gokul_i/status/1958880167889133811, www.twitter.com/aliahsan_sfv/status/1967167095894098210, www.twitter.com/adeelibr/status/1981356783818985774, www.twitter.com/steinlagescott/status/1958603243401183701, www.twitter.com/minimeditor/status/1954422981708722372, www.crunchbase.com/organization/supabase,",
+   "score": 0.5515985,
+   "raw_content": null,
+   "id": "e66ad6-02"
+  }
+ ],
+ "response_time": 1.41,
+ "usage": {
+  "credits": 1
+ },
+ "request_id": "d2086490-331c-438f-9785-d12199715e5c"
+}

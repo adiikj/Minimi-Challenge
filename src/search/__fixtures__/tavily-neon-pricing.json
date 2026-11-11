@@ -1,0 +1,58 @@
+{
+ "query": "Neon Postgres pricing plans",
+ "follow_up_questions": null,
+ "answer": null,
+ "images": [],
+ "results": [
+  {
+   "url": "https://selfhost.dev/blog/neon-pricing-cost-of-serverless-postgres",
+   "title": "Neon Pricing: The Honest Cost of Serverless Postgres",
+   "content": "Neon has three published plans: Free, Launch, and Scale. All are built on the same usage-based model, and none of the paid plans has carried a monthly minimum since December 2025. You pick a plan for its features and limits, not for a fixed price, because the bill still comes from what you use. [...] Get $5 Free Credits \n\nIndicative conversion. Billing is always in USD.\n\nCloud Database Costs \n\n# Neon Pricing: The Honest Cost of Serverless Postgres\n\nDr. Somya Hallan · Jun 25, 2026 · 25 min read\n\nNeon Pricing: The Honest Cost of Serverless Postgres\n\nNeon can cost $3 a month, or $680 a month, for the same-sized database. The difference isn’t your data, it’s whether your app ever sleeps. [...] Price your size →\n\nManaged PostgreSQL from $8.10 a month in Mumbai. Dedicated Postgres or MySQL on AWS, with restore, pooling and Multi-AZ failover when you want it.\n\n{price}\n\nPrice your size →\n\nManaged PostgreSQL from $8.10 a month in Mumbai. Dedicated Postgres or MySQL on AWS, with restore, pooling and Multi-AZ failover when you want it.\n\n{price} Pay-as-you-go credits, top up from $5, no plan tiers.\n\nPrice your size →",
+   "score": 0.87605256,
+   "raw_content": null,
+   "published_date": "Thu, 25 Jun 2026 08:25:10 GMT",
+   "id": "1564d6-00"
+  },
+  {
+   "url": "https://neon.com/pricing",
+   "title": "Pricing — Neon",
+   "content": "Neon now has realtime: Live SQL with full reactivity. Try it in Beta today\n\nDiscord23.3k\n\nLog inSign up\n\n# Neon pricing\n\nGet started for free. Pay per usage as you grow.\n\n## Neon pricing plans\n\n ### Free\n\n  #### $0\n\n  Build and learn free with no time limits and no credit card required.\n\n  Try Neon\n\n  Lakebase Postgres\n\n  + 100 projects\n  + 100 CU-hrs monthly per project\n  + 1 GB of storage per project\n  + Sizes up to 2 CU (8 GB RAM)\n  + Unlimited team members\n\n  Backend [...] The typical monthly cost estimates shown in our pricing plans are based on representative database workloads that reflect common usage patterns across different application types. These estimates cover Postgres compute and storage only. They don't factor in Object Storage, Functions, or AI Gateway usage, which are billed separately. [...] Backend\n\n  + Managed Better Auth\n  + 5 GB of Object Storage\n  + Functions\n  + Realtime (Beta)\n ### Launch\n\n  #### Usage-based\n\n  Typical spend: $15 /mo\n\n  \n\n  Based on:\n\n  Get started\n\n  Lakebase Postgres\n\n  + 100 projects\n  + $0.106 per CU-hr\n  + $0.35 per GB-month\n  + Sizes up to 16 CU (64 GB RAM)\n  + 3-day metrics/logs in UI\n\n  Backend\n\n  + Managed Better Auth\n  + Object Storage\n  + Functions\n  + AI Gateway\n  + Realtime (Beta)\n ### Scale\n\n  #### Usage-based\n\n  Typical spend: $701 /mo",
+   "score": 0.8646883,
+   "raw_content": null,
+   "published_date": null,
+   "id": "24b4fe-01"
+  },
+  {
+   "url": "https://makerkit.dev/pricing-calculator/neon",
+   "title": "Neon Pricing Calculator (2026) — Estimate Your Monthly Bill",
+   "content": "## How Neon pricing works in 2026\n\nNeon is a serverless Postgres database with two distinct billing dimensions: compute and storage. Compute is measured in Compute Units (CU) — one CU equals 1 vCPU and 4 GB RAM — and billed per hour of active use at $0.106/CU-hour on the Launch plan. Storage is $0.35/GB-month. Egress is 100 GB/month included, then $0.10/GB. [...] XataXata Cloud\n\n$45.28/mo\n\nPlanetScalePostgres\n\n$60.25/mo\n\nNeonLaunch\n\n$73.16/mo\n\nConvex uses per-seat pricing — costs grow with team size.Think something is wrong?\n\nWhat Neonexcels at",
+   "score": 0.8548001,
+   "raw_content": null,
+   "published_date": "Thu, 21 May 2026 00:00:00 GMT",
+   "id": "26e290-02"
+  },
+  {
+   "url": "https://neon.com/docs/introduction/plans",
+   "title": "Neon plans - Neon Docs",
+   "content": "The Free plan costs $0/month and includes 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU (≈8 GB RAM), 1 GB of Postgres storage per project (up to 20 GB total across all projects), and 5 GB of public network transfer per project per month. It also includes a 6-hour instant restore history (capped at 1 GB-month of changes), 1 manual snapshot, up to 60,000 Managed Better Auth MAU, 1 day of monitoring history, and community support. [...] Pricing: Snapshot storage is billed at $0.09/GB-month.\n\nFor billing, manual snapshots are charged as full snapshots. Scheduled snapshots are charged as full snapshots for the first snapshot in a schedule, then as incremental (delta) storage for subsequent snapshots in that schedule.\n\nAutomated backup schedules are available on paid plans. On the Agent plan, they are available upon request. See Backup & restore for details.\n\n### Auth [...] Invocations are counted separately: each time your function is called counts as one invocation, regardless of how long it runs. Billed per million.\n\nUsage limits apply. On paid plans, Functions are billed at the following rates:\n\n| Metric | Launch | Scale |\n --- \n| Active compute | $0.10/Capacity-Hour | $0.12/Capacity-Hour |\n| Waiting compute | $0.025/Capacity-Hour | $0.03/Capacity-Hour |\n| Invocations | $0.60/M | $0.60/M |",
+   "score": 0.82694983,
+   "raw_content": null,
+   "published_date": "Fri, 30 May 2025 00:00:00 GMT",
+   "id": "d7476c-03"
+  },
+  {
+   "url": "https://neon.com/faqs/free-plan-limits-and-quotas",
+   "title": "What are the limits and quotas for Neon's Free plan? - Neon FAQs",
+   "content": "The Neon Free plan costs $0/month and includes 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, 1 GB of Postgres storage per project (up to 20 GB total across all projects), and 5 GB of public network transfer per project per month. Computes scale to zero after 5 minutes of inactivity and can scale up to 2 CU (≈8 GB RAM) when active. See the Plans page for the full table.\n\n## What's included [...] The Launch plan has no monthly minimum. You pay $0.106 per CU-hour and $0.35 per GB-month for what you use. It raises autoscaling to 16 CU (≈64 GB RAM), the history window to 7 days, manual snapshots to 100, and public network transfer to 500 GB per project per month. It also lets you disable scale to zero and adds protected branches and spending notifications. The project and branch allowances stay at 100 projects and 10 branches per project, and extra branches cost $1.50/branch-month. For an",
+   "score": 0.7942736,
+   "raw_content": null,
+   "published_date": "Sun, 07 Jun 2026 00:00:00 GMT",
+   "id": "c59e36-04"
+  }
+ ],
+ "response_time": 1.87,
+ "usage": {
+  "credits": 1
+ },
+ "request_id": "866e6ca0-59ee-4d83-8800-d7712a080731"
+}
