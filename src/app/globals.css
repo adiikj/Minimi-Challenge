@@ -1,0 +1,246 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --sunken: #0b0b0b;
+  --paper: #111111;
+  --surface: #181818;
+  --raised: #222222;
+  --rule: #2a2a2a;
+  --ink: #f2f2f2;
+  --prose: #d6d6d6;
+  --graphite: #a1a1a1;
+  --faint: #6f6f6f;
+  --alert: #f08a80;
+}
+
+@theme inline {
+  --color-sunken: var(--sunken);
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-raised: var(--raised);
+  --color-rule: var(--rule);
+  --color-ink: var(--ink);
+  --color-prose: var(--prose);
+  --color-graphite: var(--graphite);
+  --color-faint: var(--faint);
+  --color-alert: var(--alert);
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+/* Base layer, so Tailwind utilities (e.g. focus-visible:outline-none) can override these. */
+@layer base {
+  html,
+  body {
+    height: 100%;
+  }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background: rgb(255 255 255 / 0.18);
+  }
+
+  :focus-visible {
+    outline: 2px solid rgb(255 255 255 / 0.55);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
+  }
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+.pulse-dot {
+  animation: pulse-dot 1.4s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .pulse-dot {
+    animation: none;
+    opacity: 1;
+  }
+}
+
+.cite {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.15rem;
+  height: 1.05rem;
+  padding: 0 0.3rem;
+  margin-left: 0.15rem;
+  border-radius: 0.3rem;
+  background: var(--raised);
+  color: var(--graphite);
+  font-size: 0.68rem;
+  font-weight: 600;
+  line-height: 1;
+  vertical-align: 0.15em;
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+}
+.answer a.cite {
+  color: var(--graphite);
+  text-decoration: none;
+}
+a.cite:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+.shimmer {
+  background: linear-gradient(90deg, var(--faint) 0%, var(--faint) 35%, var(--ink) 50%, var(--faint) 65%, var(--faint) 100%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 2.2s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .shimmer {
+    animation: none;
+    color: var(--graphite);
+    background: none;
+  }
+}
+
+.answer {
+  font-size: 0.97rem;
+  line-height: 1.72;
+  color: var(--prose);
+}
+.answer > * + * {
+  margin-top: 0.9em;
+}
+.answer h1,
+.answer h2,
+.answer h3 {
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.35;
+  margin-top: 1.5em;
+}
+.answer h1 {
+  font-size: 1.15rem;
+}
+.answer h2 {
+  font-size: 1.05rem;
+}
+.answer h3 {
+  font-size: 0.97rem;
+}
+.answer ul,
+.answer ol {
+  padding-left: 1.25em;
+}
+.answer ul {
+  list-style: disc;
+}
+.answer ol {
+  list-style: decimal;
+}
+.answer li::marker {
+  color: var(--faint);
+}
+.answer li + li {
+  margin-top: 0.35em;
+}
+.answer a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-color: var(--faint);
+  text-underline-offset: 3px;
+}
+.answer a:hover {
+  text-decoration-color: var(--ink);
+}
+.answer strong {
+  font-weight: 600;
+  color: var(--ink);
+}
+.answer code {
+  font-family: var(--font-mono);
+  font-size: 0.86em;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  padding: 0.05em 0.35em;
+  border-radius: 4px;
+}
+.answer pre {
+  background: var(--sunken);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 0.8em 1em;
+  overflow-x: auto;
+}
+.answer pre code {
+  background: none;
+  border: 0;
+  padding: 0;
+}
+.answer blockquote {
+  border-left: 2px solid var(--rule);
+  padding-left: 0.9em;
+  color: var(--graphite);
+}
+.answer hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+}
+.answer .table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+}
+.answer table {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-collapse: collapse;
+  width: 100%;
+}
+.answer th,
+.answer td {
+  text-align: left;
+  padding: 0.55em 0.85em;
+  vertical-align: top;
+}
+.answer th {
+  font-weight: 500;
+  color: var(--graphite);
+  background: var(--surface);
+  border-bottom: 1px solid var(--rule);
+}
+.answer tr + tr td {
+  border-top: 1px solid var(--rule);
+}
