@@ -3,7 +3,6 @@ import type { SourceRef, TurnTrace } from "@/core/types";
 import type { StoredMessage, ThreadSummary } from "@/memory/repo";
 import type { UIMessage } from "./useChat";
 
-
 export type ProfileSummary = { id: string; name: string; isDemo: boolean };
 export type Session = {
   profile: ProfileSummary & { tz: string };

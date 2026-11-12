@@ -9,7 +9,6 @@ import { SourceRegistry } from "@/search/service";
 import type { MemoryWriter } from "./memory-writer";
 import { runTurn, type TurnDeps, type TurnMemory } from "./orchestrator";
 
-
 export type ChatTurnInput = {
   scope: UserScope;
   threadId?: string;

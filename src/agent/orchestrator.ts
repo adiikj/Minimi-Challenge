@@ -21,7 +21,6 @@ import { buildTurnContext, SYSTEM_PROMPT, withContext } from "./prompts";
 import { createWebSearchTool, formatRun, type SearchTurnState, type WebSearchToolSet } from "./tools/web-search";
 import type { PrefetchPlan } from "@/context/prefetch";
 
-
 export type HistoryMessage = { role: "user" | "assistant"; content: string };
 
 const PREFETCH_TIMEOUT_MS = 3_500;

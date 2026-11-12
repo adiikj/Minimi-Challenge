@@ -11,7 +11,6 @@ import type {
 
 type FinishChunk = Extract<LLMChunk, { type: "finish" }>;
 
-
 export type ToolResult = { toolCallId: string; name: string; content: string };
 
 export interface ToolSet {

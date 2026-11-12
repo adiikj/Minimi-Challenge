@@ -7,11 +7,11 @@ export async function* parseSSE(body: ReadableStream<Uint8Array>): AsyncGenerato
       const { value, done } = await reader.read();
       if (done) break;
       buffer += decoder.decode(value, { stream: true });
-    let newline: number;
-    while ((newline = buffer.indexOf("\n")) >= 0) {
-      const line = buffer.slice(0, newline).replace(/\r$/, "");
-      buffer = buffer.slice(newline + 1);
-      if (!line.startsWith("data:")) continue;
+      let newline: number;
+      while ((newline = buffer.indexOf("\n")) >= 0) {
+        const line = buffer.slice(0, newline).replace(/\r$/, "");
+        buffer = buffer.slice(newline + 1);
+        if (!line.startsWith("data:")) continue;
         const data = line.slice(5).trimStart();
         if (data && data !== "[DONE]") yield data;
       }

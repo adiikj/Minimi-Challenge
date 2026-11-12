@@ -1,7 +1,6 @@
 import { daysBetween, type Ymd } from "@/lib/dates";
 import type { StoredClaim } from "@/memory/repo";
 
-
 export type FreshnessLevel = "fresh" | "stale" | "changed";
 
 export type Freshness = {

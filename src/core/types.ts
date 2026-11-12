@@ -1,11 +1,8 @@
-
-
 export type UserScope = { readonly userId: string };
 
 export interface Clock {
   now(): Date;
 }
-
 
 export type AgentEvent =
   | { type: "thread"; thread: { id: string; title: string; isNew: boolean }; userMessageId: string }
@@ -47,7 +44,6 @@ export type TraceSpan = {
   queries?: string[];
   cacheHits?: number;
 };
-
 
 export type Usage = {
   inputTokens: number;

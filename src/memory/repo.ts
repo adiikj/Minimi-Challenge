@@ -3,7 +3,6 @@ import type { SourceRef, TurnTrace, UserScope } from "@/core/types";
 import { localDate, safeTimeZone } from "@/lib/time";
 import { transaction, type Db } from "./db";
 
-
 export type Profile = { id: string; name: string; isDemo: boolean; tz: string };
 export type ProfileRow = Profile & { deviceId: string | null };
 export type ThreadSummary = { id: string; title: string; createdAt: string; updatedAt: string };
@@ -80,7 +79,6 @@ export type Repo = ReturnType<typeof createRepo>;
 export function createRepo(db: Db, now: () => Date = () => new Date()) {
   const iso = () => now().toISOString();
 
-
   function createDevice(): string {
     const id = randomUUID();
     db.prepare("INSERT INTO devices (id, created_at) VALUES (?, ?)").run(id, iso());
@@ -136,7 +134,6 @@ export function createRepo(db: Db, now: () => Date = () => new Date()) {
     db.prepare("UPDATE users SET tz = ? WHERE id = ? AND tz <> ?").run(safeTimeZone(tz), scope.userId, safeTimeZone(tz));
   }
 
-
   function createThread(scope: UserScope, title: string): ThreadSummary {
     const t = { id: randomUUID(), title: title.trim().slice(0, 120) || "New chat", createdAt: iso(), updatedAt: iso() };
     db.prepare("INSERT INTO threads (id, user_id, title, created_at, updated_at) VALUES (?, ?, ?, ?, ?)").run(
@@ -163,7 +160,6 @@ export function createRepo(db: Db, now: () => Date = () => new Date()) {
   function deleteThread(scope: UserScope, threadId: string): boolean {
     return db.prepare("DELETE FROM threads WHERE id = ? AND user_id = ?").run(threadId, scope.userId).changes === 1;
   }
-
 
   function addMessage(
     scope: UserScope,
@@ -298,7 +294,6 @@ export function createRepo(db: Db, now: () => Date = () => new Date()) {
     ).map((r) => ({ id: str(r.id), threadId: str(r.thread_id), content: str(r.content), localDate: str(r.local_date) }));
   }
 
-
   function threadsInRange(scope: UserScope, start: string, end: string, excludeThreadId = ""): string[] {
     return (
       db
@@ -358,7 +353,6 @@ export function createRepo(db: Db, now: () => Date = () => new Date()) {
   function renameThread(scope: UserScope, threadId: string, title: string): boolean {
     return db.prepare("UPDATE threads SET title = ? WHERE id = ? AND user_id = ?").run(title.trim().slice(0, 120), threadId, scope.userId).changes === 1;
   }
-
 
   function saveClaims(scope: UserScope, at: { messageId: string; threadId: string }, claims: ClaimInput[]): string[] {
     if (!ownsMessage(scope, at.messageId)) throw new Error("Message not found for this user");
@@ -452,7 +446,6 @@ export function createRepo(db: Db, now: () => Date = () => new Date()) {
       db.prepare(`SELECT * FROM entities WHERE user_id = ? AND message_id IN (${marks}) ORDER BY rowid`).all(scope.userId, ...messageIds) as Row[]
     ).map((r) => ({ messageId: str(r.message_id), name: str(r.name), domain: (r.domain as string | null) ?? null }));
   }
-
 
   function logSpend(kind: string, model: string, costUsd: number): void {
     db.prepare("INSERT INTO spend_log (kind, model, cost_usd, created_at) VALUES (?, ?, ?, ?)").run(kind, model, costUsd, iso());
