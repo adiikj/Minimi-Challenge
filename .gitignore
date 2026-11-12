@@ -32,3 +32,5 @@ evals/results/*.json
 # private notes
 plan.md
 demo-video.md
+walkthrough.md
+explainer-video.md
