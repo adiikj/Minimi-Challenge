@@ -28,7 +28,7 @@ A new profile has no history, so the memory questions find nothing. That is the 
 |---|---|
 | Last Tuesday | Cheapest managed Postgres (Neon, Supabase, Railway) |
 | Last Monday | CRM shortlist for a 20-person sales team |
-| 3 November | Does Supabase pause free projects? |
+| 3 November | Does Supabase pause free projects? (only when 3 November isn't already last Tuesday) |
 | 4 days before last Tuesday | Cold email to a CTO (unrelated) |
 
 Then ask the challenge questions:
